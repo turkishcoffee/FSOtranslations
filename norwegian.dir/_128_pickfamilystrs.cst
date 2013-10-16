@@ -1,0 +1,30 @@
+1 ^Netto verdi^
+2 ^Vennepoengsum^
+
+// tooltips
+3 ^Design ny familie^
+4 ^Flytt inn familie^
+5 ^Slett familie^
+6 ^Avbryt^
+
+// for the dialog
+7 ^Slette familie?^
+8 Er du sikker på at du vil slette "%s" familien?^
+
+// not actually used yet, but will be
+9 ^VELG EN FAMILIE^
+10 ^Avbryt^
+
+11 ^Netto midler^
+12 ^Antall venner^
+
+
+
+13 ^Personlighet for %s^
+
+14 ^Hvordan lage en familie^
+15 ^Du kan lage en ny familie ved å klikke på Design ny familie-knappen på bunnen av skjermen^
+
+16 ^Tilbake til nabolaget^
+
+17 ^Klikk for å lage en ny familie^

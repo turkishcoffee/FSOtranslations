@@ -1,0 +1,27 @@
+
+kEvictHouseXXX
+^Slette hus?^
+^Vil du slette dette huset?^
+
+kEvictFamilyXXX
+^Kaste ut familie?^
+^%s familien har en nettoverdi på %s.  Vil du kaste dem ut?^
+
+kEvictNothingXXX
+^Ingenting å slette^
+^Det er ingenting å slette her.^
+
+kEvictCommunityXXX
+^Fellestomt^
+^Du kan ikke slette denne fellestomten.^
+
+kEvictMarqueeXXX
+^Beklager^
+^Du kan ikke slette SimEstates teltet.^
+
+kEvictCountNotXXX
+^Feil^
+^Kunne ikke kaste ut!^
+
+^Beklager^
+^Du kan ikke slette tutorial-huset.^

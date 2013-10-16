@@ -1,0 +1,23 @@
+
+//The next 5 are tool tips
+1 ^Legg til en ny person^
+2 ^Slett valgte person^
+3 ^Endre valgte person^
+4 ^Aksepter forandringer^
+5 ^Avbryt^
+
+6 ^Slette person?^
+7 ^Er du sikker på at du vil slette denne personen?^
+
+8 ^Avbryt?^
+9 ^Er du sikker på at du vil slette denne familien?^
+
+// not actually used yet, but will be
+10 ^DESIGN EN FAMILIE^
+11 ^Ferdig^
+12 ^Avbryt^
+
+13 ^Skriv etternavn:^
+
+14 ^Ferdig?^
+15 ^Er du sikker på at du er ferdig?  Du kan ikke returnere for å endre denne familien igjen.^
