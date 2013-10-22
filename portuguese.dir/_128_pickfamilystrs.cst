@@ -1,0 +1,30 @@
+1 ^Patrimônio Líquido^
+2 ^Pontos dos seus Amigos^
+
+// Dicas
+3 ^Projetar uma nova Família^
+4 ^Mover a Família^
+5 ^Deletar a Família^
+6 ^Cancelar^
+
+// para o diálogo
+7 ^Deletar Família?^
+8 ^Você tem certeza que deseja deletar a Família "%s"?^
+
+// não está sendo usado no momento, mas será
+9 ^SELECIONAR FAMÍLIA^
+10 ^Cancelar^
+
+11 ^Os seus recursos^
+12 ^Resultado do Amigo^
+
+
+
+13 ^Personalidade para %s^
+
+14 ^Como criar uma família^
+15 ^Você pode criar uma família clicando no botão de Criar uma Família na parte inferior do visor^
+
+16 ^Voltar a vizinhança^
+
+17 ^Clique para criar uma nova família^
