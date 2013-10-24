@@ -1,0 +1,105 @@
+1  ^Forholdsnettverk^
+2  ^Send en melding til denne simmen^
+3  ^Bokmerk denne simmen^
+4  ^Simnavn^
+5  ^Lukk^
+6  ^Utvid^
+7  ^Trekk sammen^
+8  ^Hvor er jeg^
+9  ^Hvor er min eiendom^
+10 ^Simmens beskrivelse^
+11 ^Simmens prestasjoner og ferdigheter^
+12 ^Simmens tillatelses-innstillinger^
+13 ^Simbeskrivelse^
+14 ^Rull opp^
+15 ^Rull ned^
+16 ^Simmens ferdigheter^
+17 ^Mekanisk^
+18 ^Koking^
+19 ^Karisma^
+20 ^Logikk^
+21 ^Kropp^
+22 ^Kreativitet^
+23 ^Mekaniske ferdigheter: %d.%.2d^
+24 ^Kokeferdigheter: %d.%.2d^
+25 ^Karisma: %d.%.2d^
+26 ^Logiske ferdigheter: %d.%.2d^
+27 ^Kroppsferdigheter: %d.%.2d^
+28 ^Kreativitet: %d.%.2d^
+29 ^Legg til i din eiendoms forbudsliste^
+30 ^Legg til i din eiendoms tillatelsesliste^
+31 ^Ignorer denne simmen^
+32 ^Inviter til å bli romkamerat^
+33 ^Spark ut fra din eiendom^
+34 ^Foreldreblokkering.^
+35 ^Født: %s Alder: %d dager^
+36 ^Født: %s Age: 1 dag^
+37 ^Vennligst skriv inn foreldreblokkerings-passordet for å forandre din sims beskrivelse^
+38 ^Legg simmen til tillatelseslisten^
+39 ^Tillatelseslisten er full. Ingen flere kan legges til^
+40 ^Legg til i simmens forbudsliste^
+41 ^Forbudslisten er full. Ingen flere kan legges til^
+42 ^Passordet er feil. Vennligst prøv igjen^
+43 ^Feil passord^
+44 ^Kan ikke fjerne bokmerket for romkameraten^
+45 ^Romkamerater er alltid bokmerket.^
+46 ^Grunnlegger^
+47 ^Lås opp denne ferdigheten^
+48 ^Lås denne ferdigheten^
+49 ^%d av %d ferdighetspoeng opplåst^
+50 ^Du kan ikke lokalisere denne simmen.  Du ignorerer dem.^
+51 ^Du kan ikke lokalisere denne simmen.  De ignorerer deg.^
+52 ^Denne simmen er ikke i en eiendom akkurat nå, vennligst prøv igjen senere.^
+53 ^'Hvor er jeg' personvernsinnstillinger^
+54 ^Personvern er aktivert. Andre spillere kan ikke bruke "Hvor er jeg?" knappen for å finne deg.  Vil du deaktivere personvernet, og tillate andre spillere å finne deg?
+^
+55 ^Personvern er deaktivert.  Vil du aktivere personvernet, slik at andre spillere ikke kan bruke "Hvor er jeg?" knappen til å finne deg?
+^
+56 ^Hvor er jeg? Aktiver personvern^
+57 ^Hvor er jeg? Deaktiver personvern^
+58 ^Jobbtitler^
+59 ^Jobbtitler oppnådd^
+60 ^Nåværende tittel^
+61 ^Arbeidsledig^
+62 ^Andre titler:^
+63 ^Mere jobbinformasjon^
+64 ^Jobbinformasjon^
+65 ^Nåværende jobbtype: %s
+Tittel: %s
+Timer: %s
+Henting: Omtrent %s
+Neste forfremmelse: %s^
+66 ^Nåværende jobbtittel: Selvstendig næringsdrivende
+Title: Entreprenør
+Timer: Varierer
+Henting: Nei
+Neste forfremmelse: selvforfremmelse^
+67 ^Ingen^
+68 ^Robotfabrikkarbeider^
+69 ^Servitør^
+70 ^Kokk^
+71 ^DJ^
+72 ^Danser^
+73 ^9:00 til 17:00^
+74 ^8:00^
+75 ^11:00 to 19:00^
+76 ^10:00^
+77 ^20:00 to 4:00^
+78 ^19:00^
+79 ^Ingen flere forfremmelser er tilgjengelige nå^
+80 ^Simforhold^
+81 ^Utgående: Hvordan du føler om denne simmen^
+82 ^Innkommende: Hvordan denne simmen føler om deg^
+83 ^Daglig:^
+84 ^Livstid:^
+85 ^ Dag^
+86 ^ Dager^
+87 ^Ditt daglige forhold med denne simmen^
+88 ^Ditt livsvarige forhold med denne simmen^
+89 ^Denne simmens daglige forhold med deg^
+90 ^Denne simmens livsvarige forhold med deg^
+91 ^Lengden på ditt forhold til denne simmen^
+92 ^Lengden på denne simmens forhold til deg^
+93 ^Sorry, den simmen er allerede en eier eller romkamerat med noen andre. Han eller hun må flytte ut før du kan sende dem en romkameratsinvitasjon.^
+94 ^Romkameratsinvitasjon feilet^
+95 ^Flytt ut av din eiendom^

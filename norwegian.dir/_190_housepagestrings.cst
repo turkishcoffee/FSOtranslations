@@ -1,0 +1,40 @@
+1  ^Lukk^
+2  ^Entre eiendommen^
+3  ^Rull mot venstre^
+4  ^Rull mot høyre^
+5  ^Eiendommens navn^
+6  ^Eiendommens beskrivelse^
+7  ^Kontrakt^
+8  ^Utvid^
+9  ^Rull opp^
+10 ^Rull ned^
+11 ^Denne eiendommen er frakoblet^
+12 ^Skriv inn passordet for å endre eiendomsbeskrivelsen.^
+13 ^Passordet er feil.^
+14 ^Feil passord^
+15 ^Navnet du har skrevet er ugyldig. Følgende problem(er) har blitt oppdaget:^
+16 ^- Navnet er for kort. Må være minst tre bokstaver.^
+17 ^- Navnet er for langt. Maksimum 24 bokstaver er tillatt.^
+18 ^- Ingen numeriske (0-9) tegn er tillatt.^
+19 ^- Bare en apostrof (') tillatt.^
+20 ^- Bare en bindestrek (-) tillatt.^
+21 ^- Bare to ikke-sammenhengende mellomrom tillatt.^
+22 ^- Ingen spesielle tegn tillatt.^
+23 ^- Et reservert eller upassende ord har blitt oppdaget.^
+24 ^Klikk for å endre din eiendoms navn^
+25 ^Antall simmer på eiendommen^
+26 ^Eiendommens kategori: %s^
+27 ^ - Klikk for å endre^
+28 ^Eiendommens verdi^
+29 ^Eiendommens kategori kan kun endres av eiendommens leder.^
+30 ^Din eiendom må være uokkupert før du kan endre dens kategori.^
+31 ^Denne eiendommens kategori kan ikke endres igjen før omtrent %d dag(er).^
+32 ^Verifiserer at din eiendom er lukket og uokkupert.... Vennligst prøv igjen om omtrent %d sekunder.^
+33 ^Nabolagstilhørighet^
+34 ^Klikk for å endre din nabolagstilhørighet^
+35 ^Nabolag^
+36 ^Du har laget et ventende nabolag. Dine naboer vil se dette nabolaget som et alternativ i deres eiendomssider. Et nabolags navn vil vises på skjermen når det har minst tre medlemseiendommer. For å dukke opp på utsikt over byen, må nabolaget ditt være en av de ti største i byen.^
+37 ^Nabolag opprettet^
+38 ^Du har blitt med et i nabolag. Pass på at du snakker med nabolagets leder for å forstå hva deres mål for området er. Hvis et nabolag har minst tre medlemseiendommer, vises navnet når kartet er zoomet inn. For å dukke opp på utsikt over byen, må nabolaget ditt være en av de ti største i byen.^
+39 ^Nabolagsmedlem^
+
