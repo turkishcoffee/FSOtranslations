@@ -1,0 +1,27 @@
+1 ^Nettverksfeil^
+2 ^Mistet forbindelse til tjeneren. Mulige grunner: din klient har kanskje koblet seg av ved en feiltagelse eller tjeneren kan ha kræsjet. ( Feilkode: %d )^
+3 ^Tilkobling brutt.^
+4 ^Klarte ikke å opprette karakter.^
+5 ^Simmens navn er allerede i bruk. Vennligst velg et nytt navn.^
+6 ^Database-feil^
+7 ^Kunne ikke opprette ny karakter.^
+8 ^Kunne ikke sette karakterens dråpe.^
+9 ^Kunne ikke sette penge-felt.^
+10 ^Din siste gjeste-bonus^
+11 ^Den siste gjestebonusen du fikk var %lu Simoleon(er). Gjestebonus utbetales daglig. (Denne meldingen vil ikke oppdateres hvis gjestebonusen du mottar er null.)^
+12 ^Frakopling grunnet inaktivitet^
+13 ^Du har blitt autmatisk frakoplet tjeneren grunnet inaktivitet.^
+14 ^Feil - Navnet til simmen din er ugyldig. Vennligst velg et nytt navn.^
+15 ^Feil - Ugyldig hode.^
+16 ^Feil - Ugyldig kropp.^
+17 ^Feil - Ugyldig naken kropp.^
+18 ^Feil - Ugyldig svømme-klær.^
+19 ^Feil - Ugyldig sove-klær.^
+20 ^Feil - Ugyldig kjønn.^
+21 ^Feil - Ugyldig hudfarge.^
+22 ^Feil - Forespørselen mangler data.^
+23 ^Feil - DBInsert failed.^
+24 ^Du har blitt suspendert.^
+25 ^Vi beklager å måtte informere deg om at din konto har blitt suspendert for brudd på våre vilkår. En e-postmelding om denne hendelsen har blitt sendt til den adressen som ble brukt til å registrere din Sims Online-konto. Du kan også besøke "Game Help" på http://www.afr0games.com og søke på ordet "suspend" for informasjon om suspenderte kontoer.^
+26 ^Du har blitt frakoblet fordi en annen bruker har kommet inn i spillet med samme kontonavn. Hvis du tror noen andre bruker kontoen ulovlig vennligst besøk http://thesimsonline.custhelp.com for hjelp.^
+27 ^Du har blitt frakoblet fordi en annen bruker har undertegnet med samme kontonavn og har pensjonert denne simmen. Hvis du tror noen andre bruker kontoen ulovlig vennligst besøk http://thesimsonline.custhelp.com om hjelp.^

@@ -1,0 +1,51 @@
+	kOccupiedHouseText,
+	kEmptyHouseTextNormalText,
+	kEmptyHouseTextMoveInModeCannotAffordText,
+	kEmptyHouseTextMoveInModeCanAffordText,
+	kEmptyLotMoveInCannotAffordText,
+	kEmptyLotMoveInModeCanAffordText,
+	kTutorialText,
+	kStreetAddressText,
+	kTutorialCannotMoveInText,
+
+^%s familien
+Netto verdi: %s
+Venner: %d^
+
+^Kostnad: %s
+Velg eller lag familie og flytt dem inn for å spille.^
+
+^Kostnad: %s
+%s familien har bare %s.  De har ikke råd til dette huset.^
+
+^Kostnad: %s
+Dette kan være drømmehuset!  Hvis du kjøper, vil familien ha %s å bruke på husholdningsartikler.^
+
+^Kostnad: %s
+The %s family only has %s.  They can't afford this lot.^
+
+^Kostnad: %s
+Dette kan være drømmetomten! Hvis du kjøper denne tomten, vil familien ha %s å bruke på å bygge et hus og kjøpe husholdningsartikler.^
+
+^For å lære hvordan spillet spilles...^
+
+^%s Sim Lane^
+
+^Kan ikke flytte inn i tutorial huset!^
+
+^%s familien
+Netto verdi: %s
+Venner: %d
+Klikk for å kaste ut denne familien.^
+
+^Klikk for å slette dette huset.^
+
+^Det er ingen å kaste ut og ingenting å slette.^
+
+^Du kan ikke slette opplærings-huset til etter at du har fullført opplæringen.^
+
+^Velkommen hjem %s!^
+^Koble til hus "%s" på "%s". Det %s i dette huset.^
+^Velkommen hjem %s!  Huset ditt er allerede online på "%s". Det %s i dette huset.^
+^er 1 person^
+^er %d mennesker^

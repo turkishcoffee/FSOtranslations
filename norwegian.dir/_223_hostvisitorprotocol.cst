@@ -1,0 +1,26 @@
+1 ^Sender AvatarID to vert...^
+2 ^Generell melding^
+3 ^Besøk avvist. %s^
+4 ^Besøk avvist. Eiendom låst...^
+5 ^Besøk akseptert. Ber om eiendomsdata...^
+6 ^Eiendomsbesøk feilet.^
+7 ^Eieren renoverer. Kom tilbake senere.^
+8 ^Du har blitt sparket fra eiendommen. Klikk OK for å returnere til kartvisning.^
+9 ^Frakoblet fra eiendom^
+10 ^Du er ikke lenger en romkamerat, du er nå hjemløs. Du kan velge å bli en romkamerat i en annen eiendom, eller skaffe en egen eiendom. Men ingen av disse må gjøres med en gang. Du kan fortsatt besøke andre eiendommer i verden uten å eie din egen. Returnerer nå til kartvisning ...^
+11 ^Forsøkte å koble til igjen for fort.^
+12 ^Eiendomssimmen mener simmen din er fortsatt til stede i denne eiendommen. Klikk OK for å gå tilbake til kartvisning.^
+13 ^Du har blitt koblet fra eiendommen. Klikk OK for å gå tilbake til kartvisning.^
+14 ^Du kan ikke resynkronisere mens andre har vedvarende dialoger oppe.^
+15 ^Rom fullt.^
+16 ^Denne eiendomssimmen inneholder det maksimale antall beboere. Klikk OK for å gå tilbake til kartvisning.^
+17 ^Du har blitt koblet fra eiendommen av en sysop. Klikk OK for å gå tilbake til kartvisning.^
+18 ^Du har blitt kastet ut fra eiendommen av en sysop. Klikk OK for å gå tilbake til kartvisning.^
+19 ^Du har blitt koblet fra eiendommen av en ukjent grunn. Klikk OK for å gå tilbake til kartvisning.^
+20 ^Ingen av romkameratene er tilgjengelige for å være vert for denne eiendommen. Vennligst forsøk igjen senere. Takk!^
+21 ^Ingen romkamerater hjemme.^
+22 ^Whoops! Alle romkameratene har forlatt eiendommen. Vennligst forsøk igjen senere. Takk!^
+23 ^Eiendom lukkes^
+24 ^Boligen blir demontert. Vær så snill, gi oss litt tid, OK? Kanskje vi kan finne deg en plass helt bakerst, ved kjøkkenet..^
+25 ^Eiendom lukket^
+26 ^Du prøvde å besøke en tomt mens du var i midten av en handling. Vent et øyeblikk, og prøv deretter å bli med på nytt. (Avatarutleie-feil)^

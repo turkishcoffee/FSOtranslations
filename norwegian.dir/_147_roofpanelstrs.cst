@@ -1,0 +1,31 @@
+^(10;75)^		// position of flat button, in subpanel coords
+^Flat taktigning^	// tooltip
+
+^(10;51)^		// position of shallow button, in subpanel coords
+^Grunn taktigning^	// tooltip
+
+^(10;26)^		// position of medium button, in subpanel coords
+^Medium taktigning^	// tooltip
+
+^(10;-4)^		// position of steep button, in subpanel coords
+^Bratt takstigning^	// tooltip
+
+
+^(58;26)^		// position of left page, in subpanel coords
+^Forrige side^		// tooltip
+
+^(254;26)^		// position of right page, in subpanel coords, in 800x600 mode
+^(437;26)^		// position of right page, in subpanel coords, in 1024x768 mode
+^Neste side^		// tooltip
+
+^(74;3)^		// top left of first roof pattern, in subpanel coords
+
+^Takhøyde^
+^Stigningen (steilheten) av taket, kan endres. Valgene inkluderer flatt, grunt, middels og bratt. Eksperimenter med ulike tak, og se hvilke som passer din bolig best. Det er ingen kostnader for tak.^
+
+^Takmønster^
+^Et takmønster vil bli brukt på eiendommen din så snart du klikker på et mønster i Kontrollpanel.^
+
+^(10;91)^
+^Flat takstigning^
+

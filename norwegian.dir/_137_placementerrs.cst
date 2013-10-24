@@ -1,0 +1,154 @@
+kPErrLocationOutOfBounds
+^Plassering utenfor grensene.^
+
+kPErrLevelOutOfBounds
+^Flate utenfor grensene.^
+
+kPErrMustBeAtTileCenter
+^Må be i sentrum av flisen^
+
+kPErrMustBeInCorner
+^Må være i hjørnet^
+
+kPErrCantBeInCorner
+^Kan ikke være i hjørnet^
+
+kPErrMustBeAgainstWall
+^Må være mot vegg^
+
+kPErrCantBeThroughWall
+^Kan ikke krysse vegg^
+
+kPErrMustBeOnUpstairsFloorHole
+^Må være over hull i vegg^
+
+kPErrMustBeOutside
+^Må være ute^
+
+kPErrMustBeInside
+^Må være inne^
+
+kPErrCantIntersectOtherObjects
+^Kan ikke krysse andre objekter^
+
+kPErrMustBeOnGround
+^Må være på sin egen flis på bakken^
+
+kPErrCantFindSlot
+^Kan ikke finne et sted å putte den^
+
+kPErrCantSupportWeight
+^Kan ikke støtte vekten^
+
+kPErrCantSupportSize
+^Kan ikke støtte størrelsen^
+
+kPErrCantPlaceOnTop
+^Kan ikke plasseres på toppen^
+
+kPErrCantPlaceOnSlope
+^Kan ikke plasseres i helling^
+
+kPErrCantPlaceInAir
+^Må plasseres på flis i andre etasje^
+
+kPErrNotAllowedOnFloor
+^Må plasseres på terreng^
+
+kPErrNotAllowedOnTerrain
+^Må plassere på gulv-flis^
+
+kPErrCantAfford
+^Ikke tilstrekkelige midler^
+
+kPErrMustBeAgainstUnusedWall
+^Må være mot ubrukt vegg^
+
+kPErrMustBeOnDiagonal
+^Må være på diagonal^
+
+kPErrHeightNotAllowed
+^Må plassere på bord eller overflate^
+
+kPErrInsufficientFunds
+^Ikke tilstrekkelige midler^
+
+kPErrSpecialShowMoneyError
+^Bruker skal ikke se denne meldingen^
+
+kPErrHasWater
+^Kan ikke legge til mer vann^
+
+kPErrNoWater
+^Ingen vann å slette^
+
+kPErrCantPlaceOnWater
+^Kan ikke plassere over vann^
+
+kPErrMustPlaceOnWater
+^Må plasseres på vann^
+
+kPErrMustPlaceOnPool
+^Må plasseres på basseng-flis^
+
+kPErrMustBeOnFirstLevel
+^Må være i første etasje^
+
+// wall-specific
+kPErr2ndFloorNeedsSupport,
+^Andre etasjes vegg trenger støtte fra første etasje^
+
+kPErrMustRemoveObjectsOnWall,
+^Må slette objekter på vegg først^
+
+// wallpaper-specific
+kMustBeAgainst2ndFloorWall
+^Må være på andre etasjes-vegg^
+
+kPErrCannotDeleteObject
+^Kan ikke slette objekt som er i bruk^
+
+kPErrObjectNotOwnedByYou
+^Du eier ikke det!^
+
+kPErrCounterHeight
+^Må plasseres på benk^
+
+kPErrCantBePickedup
+^Kan ikke plukke opp^
+
+kPErrInUse
+^Kan ikke velge objekt som er i bruk^
+
+kPErrCantBePickedupOutOfBounds
+^Kan ikke plukke opp--plassering utenfor grensene^
+
+kPErrCantEffectFirstLevelFromSecondLevel
+^Kan ikke påvirke første etasje fra andre etasje^
+
+kPErrCantPlaceInAirOtherLevel
+^Må tilknyttes andre etasje^
+
+kPErrNotAllowedOnFloorOtherLevel
+^Kan ikke krysse andre etasjes objekt^
+
+kPErrCannotPlaceComputerOnEndTable,
+^Kan ikke plassere på bordende^
+
+kPErrCannotDeletePoolWhilePeopleAreInIt
+^Kan ikke slette basseng med simmer i^
+
+kPErrMustRemoveLadderOrDivingBoardBeforeDeletingPool
+^Må først slette stige eller stupebrett^
+
+kPErrCannotWallpaperFence
+^Kan ikke plassere tapet på gjerder^
+
+kPErrMustHaveMoreSpaceFromCeiling
+^Må ha mer plass fra tak^
+
+kPErrTooManyObjectsOnTheLot
+^For mange objekter på tomt^
+
+kpErrCantPlaceOnForSaleObject
+^Kan ikke plasseres på objekt som er til salgs^

@@ -1,0 +1,46 @@
+1 ^The Sims Online pålogging^
+2 ^Total fremgang^
+3 ^Nåværende oppgave^
+4 ^Autoriserer. Spør etter navn og passord...^
+5 ^Forsøker å autorisere med afr0games.com...^
+6 ^afr0games.com autorisasjon var vellykket.^
+7 ^Innledende tjenertilkobling Autoriserer bruker...^
+8 ^Tjener tilkoblet. Bruker autorisert.^
+9 ^En nødvendig oppdatering er tilgjengelig. Vennligst klikk OK for å oppdatere spillet...^
+10 ^Spilloppdatering tilgjengelig^
+11 ^Forsikre deg om at følgende fil eksisterer og kan åpnes: %s\%s^
+12 ^Feil ved åpning av oppdateringsprogram^
+13 ^Feil ved installasjon av oppdateringsprogram. Forsikre deg om at du har nok tilgjengelig plass og rettigheter.^
+14 ^Feil ved installasjon av oppdateringsprogram^
+15 ^Din valgte karakters by er for øyeblikket utilgjengelig.^
+16 ^By utilgjengelig^
+17 ^Intern feil har oppstått. Vennligst kontakt teknisk support.^
+18 ^Intern feil^
+19 ^Økten er utløpt. Vennligst logg inn igjen.^
+20 ^Utløpt økt^
+21 ^Påloggingsfeil^
+22 ^Laster sim- og bydata...^
+23 ^Ferdig med å laste.^
+24 012 ^EA.com opplever for øyeblikket tekniske problemer og dette spillet er midlertidig utilgjengelig. Vennligst prøv igjen senere.^ 
+25 020 ^Vennligst tast inn ditt EA brukernavn og passord. Hvis du glemte passordet, kan du få tak i det på www.EA.com.^
+26 110 ^Brukernavnet eller passordet du skrev inn er feil. Vennligst forsøk igjen.^ 
+27 120 ^Vi beklager, men du har ikke registrert deg eller abonnert på dette spillet. Vennligst registrer deg på www.EA.com og forsøk igjen.^
+28 121 ^Vi beklager, men ditt abonnement har blitt kansellert. Hvis du trenger hjelp, gå til http://accountadmin.custhelp.com.^
+29 122 ^Vi beklager, men du er ikke registrert for å spille dette spillet.  Vennligst gå til http://eamembers.custhelp.com for mer info.^
+30 123 ^Vi beklager, men denne registreringen eller produktkoden er ikke lenger gyldig.^
+31 150 ^Vi beklager, men your account has been suspended or cancelled. If you need help, go to http://accountadmin.custhelp.com.^
+32 160 ^EA.com opplever for øyeblikket tekniske problemer og dette spillet er midlertidig utilgjengelig. Vennligst prøv igjen senere.^
+33 170 ^EA.com opplever for øyeblikket tekniske problemer og dette spillet er midlertidig utilgjengelig. Vennligst prøv igjen senere.^
+34 180 ^EA.com opplever for øyeblikket tekniske problemer og dette spillet er midlertidig utilgjengelig. Vennligst prøv igjen senere.^
+35 300 ^Klarte ikke verifisere en tilkobling til EA.com.  Vennligst sjekk din internetttilkobling og forsikre deg om at din browser har cookies påslått. Hvis det ikke løser problemet, vennligst forsøk igjen senere.^
+36 301 ^EA.com er midlertidig utilgjengelig. Dette kan være på grunn av rutinemessig tjenervedlikehold eller andre årsaker. Vennligst prøv igjen senere.^
+37 302 ^Spillet har opplevd en intern feil. Vennligst prøv igjen.^
+38 Unk ^Ukjent tilkoblingsfeil har oppstått. Følgende problem har blitt rapportert: %s^
+39 ^EA.COM autorisasjon ikke vellykket.^
+40 ^Nettverksfeil^
+41 ^Tilkobling feilet. Avslutter.^
+42 ^Ble ikke autorisert. Dette kan bety at du har slått av cookies i dine internettinnstillinger.  Vennligst påse at cookies er påslått for tso.ea.com.^
+43 ^Feil oppdaget^
+44 ^Feilkode: %d Feilmelding: %s^
+45 ^Feil ved valg av by.  Vennligst klikk 'OK' for å logge på igjen.^
+46 ^Spillet har opplevd en intern feil.^

@@ -1,0 +1,133 @@
+#145#OptionStrs.cst
+
+// all coordinates are in OptionsBack.bmp coordinates...i.e., (0;0) is the coordinate of
+// the top-left-most pixel in OptionsBack.bmp
+
+// main options panel buttons (6)
+1st column
+^(88;6)^
+	^Nabolag^
+^(29;6)^
+	^Lagre^
+^(159;6)^
+	^Avslutt^
+
+2nd column...start position computed from width of 1st column
+^(29;58)^
+	^Grafikkinnstillinger^
+^(89;58)^
+	^Lydinnstillinger^
+^(151;58)^
+	^Spillinnstillinger^
+
+
+
+
+Graphics options
+^(275;9)^		// start tiling
+^(200;20)^		// tile delta
+
+^Anti-alias^
+^Om Anti-alias^
+^Anti-alias funksjonen gjør at kantene på objekter ser jevnere ut og mindre kornete. Å slå anti-alias av vil vise kanter som er mindre glatte, men spillets ytelse vil forbedres.^
+
+^Skygger^
+^Om skygger^
+^Skygger vises under enkelte objekter for å forbedre deres utseende. Å slå skygger av vil fjerne skyggene og vil forbedre spillets ytelse.^
+
+^Lyssetting^
+^Om lyssetting^
+^Spilleskjermen er alltid opplyst av en viss mengde lys fra omgivelsene. I tillegg kan visse objekter som lamper brukes til å gi ytterligere lys. Dette alternativet gjør at du kan slå av lyset kastet av objekter som bedrer spillets ytelse.^
+
+^Grensesnitteffekter^
+^Om grensesnitteffekter^
+^Dette alternativet aktiverer mange grensesnitteffekter. Slå det av for raskere ytelse.^
+
+^(480;30)^		// start tiling..this is actually the TOP RIGHT of the text
+^(200;26)^		// tile delta
+
+^Terrengdetaljer^
+^Om terrengdetaljer^
+^Terrengdetaljer refererer til nivået av detaljer i gresset. Høy detalj viser mange gresstrå. Lav detalj betyr færre gresstrå og raskere ytelse.^
+
+^Karakterdetaljer^
+^Om karakterdetaljer^
+^Karakter Detaljer refererer til hvor mye skyggelegging og lys filtrering benyttes på Sims. Høy detalj gir deg den beste kvaliteten på grafikken, lav detalj gir deg best spillytelse.^
+
+
+// tiler origin for check boxes
+^(245;7)^		// start tiling
+^(200;20)^		// tile delta
+
+^(80;20)^		// dimensions of radio button groups
+
+// tiler origin for radio button groups
+^(485;30)^		// start tiling
+^(200;26)^		// tile delta
+
+// these are automatically positioned
+// relative to the radio button triplets
+^Lav^
+^Medium^
+^Høyt^
+
+// SOUNDS
+^(305;13)^		// start tiling
+^(200;28)^		// tile delta
+
+^F/X^
+^Lydeffekter^
+^Bruk denne volumkontrollen for å stille inn ønsket volum for alle spillets lyder og TVen.^
+
+^Musikk^
+^Musikk^
+^Bruk denne volumkontrollen for å stille inn ønsket volum for all musikken i spillet, inkludert stereoanlegget.^
+
+^Vokaler^
+^Vokaler^
+^Bruk denne volumkontrollen for å stille inn ønsket volum for stemmene til simmene.^
+
+^(130;0)^		// width of slider.  y term ignored
+
+// PLAY OPTIONS
+^(275;9)^		// start tiling
+^(200;20)^		// tile delta
+
+^Autosentrering^
+^Om autosentrering^
+^Spillet sentrerer automatisk skjermen på en spesiell hendelse når det skjer. Dette alternativet slår av den autosentrerings funksjonen.^
+
+^Fri vilje^
+^Om fri vilje^
+^Fri vilje refererer til simmenes evne til å leve sine liv for seg selv uten din hjelp. Hvis de har fri vilje vil de vanligvis svare på dine kommandoer, men hvis du lar dem være i fred en stund vil de begynne å gjøre ting på egenhånd. Hvis du er en kontrollfreak og ønsker at de skal vente tålmodig for hver ordre, slå av denne funksjonen. Forresten, besøkende har alltid fri vilje.^
+
+^Kantrulling^
+^Om kantrulling^
+^Med kantrulling på vil skjermbildet rulles når musen treffer kanten av skjermen. Slå av dette alternativet hvis du foretrekker det.^
+
+^Sim i bakgrunnen^
+^Om sim i bakgrunnen^
+^Du kan trykke på Alt-Tab for å gå til et annet aktivt vindu mens du spiller The Sims Online. Normalt vil spillet rett og slett stoppe når du gjør dette. Men hvis du vil at simmene skal fortsette å leve sine liv mens du er opptatt andre steder, slå på sim(Ulere) i bakgrunnen.^
+
+^(521;24)^
+^Tilbakestill opplæringen^
+^Om tilbakestill opplæringen^
+^Når opplæringen har blitt spilt, må den være nullstilt for å spille den igjen. Denne knappen brukes til det formålet. Men eventuelle endringer på eiendommen og simmer som lever der vil gå tapt. Hvis en annen familie er flyttet til eiendommen de vil bli kastet ut.^
+
+// MORE PLAY OPTIONS
+
+^Raske tips^
+^Om raske tips^
+^Viser hjelp popup-vinduer uten å pause eller kreve et museklikk.^
+
+^Auto-foto^
+^Om auto-foto^
+^Plasserer automatisk et bilde i fotoalbumet når det oppstår betydelige hendelser.^
+
+^Sanntids-BIB^
+^Om sanntids-BIB^
+^BIB betyr "bilde i bilde". Når bestemte hendelser oppstår vil et lite aktivt vindu vises som uthever hendelsen. For bedre ytelse på trege maskiner, bør dette valget være slått av.^
+
+^Eksporter HTML^
+^Om eksporter HTML^
+^Slå på denne funksjonen for å generere nettsider om hver av familiene når de lagres. Slå den av for raskere lagringer.^
