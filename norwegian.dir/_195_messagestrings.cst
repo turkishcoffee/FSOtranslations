@@ -1,0 +1,47 @@
+1 ^Lukk^
+2 ^Minimer^
+3 ^Send melding^
+4 ^Feil^
+5 ^Meldingen kunne ikke leveres. The recipient is offline... You might want to send them a letter instead...^
+6 ^Send brev^
+7 ^Svar^
+8 ^Brevets emne^
+9 ^Brevets innhold^
+10 ^Meldingen kunne ikke leveres. You are gagged. Please try in a few seconds...^
+11 ^Meldingen kunne ikke leveres. An unknown error has occurred. Please try again...^
+12 ^Meldingen kunne ikke leveres. You sent it too quickly right after another. Please wait a few seconds...^
+13 ^Ukjent^
+14 ^Feil ved sending av melding^
+15 ^Simmen du forsøker å sende melding til eksisterer ikke.^
+16 ^Simmen du forsøker å sende melding til kan ikke akseptere din melding siden hans/hennes inboks er full.^
+17 ^Dagens melding^    Message of the Day dialog Title - Used in SystemMessageRegulator.cpp	JPS 6/16/2002
+18 ^Meldingen kunne ikke leveres.  Du ignorerer mottakeren.^
+19 ^Meldingen kunne ikke leveres.  Du blir ignorert av mottakeren.^
+20 ^Du kan ikke sende en melding til denne simmen.  Du ignorerer dem.^
+21 ^Du kan ikke sende en melding til denne simmen.  De ignorerer deg.^
+22 ^YDu har blitt kastet ut.^  Used when CSR Ejects an Avatar dialog title - Used in SystemMessageRegulator.cpp
+23 ^Rull opp^
+24 ^Rull ned^
+
+25 ^Dagens melding^  Message of the Day dialog title for city specific MotD -ADD (didn't know if 17 was going away) **DO NOT USE (AWC 6/2004)**
+26 ^Det er en daglig melding for ^  City specific MotD message
+27 ^Vil du fortsatt lage en sim i denne byen?^  
+28 ^Fra: ^
+29 ^Emne: ^
+
+30 ^Kringkast til ^
+
+// Already replied yes or no to a roommate invitation letter.
+31 ^Du har allerede svart på denne meldingen, du kan ikke svare igjen.^
+32 ^Ingen svar tillatt^
+
+33 ^EA Representant^  // CSR
+34 ^Maxis^              // system
+35 ^The Sims Online^    // game
+36 ^Klubb^
+37 ^Avatar^
+38 ^Eiendom^
+39 ^Nabolag^
+
+40 ^RE:^
+

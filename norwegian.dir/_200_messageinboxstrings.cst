@@ -1,0 +1,38 @@
+1 ^Lukk^
+2 ^Send melding^
+3 ^Hjelp^
+4 ^Sorter etter emne^
+5 ^Sorter etter Sender^
+6 ^Sorter etter Date^
+7 ^Sorter etter Type^
+8 ^Sorter etter Urgency^
+9 ^Slett^
+10 ^Velg mottager^
+11 ^Rull opp^
+12 ^Rull ned^
+13 ^Slett melding^
+14 ^Er du sikker på at du vil slette denne meldingen?^
+15 ^Slett^
+16 ^Svar^
+17 ^RE: ^
+18 ^Fant ikke sim^
+19 ^A Sim with the name you selected doesn't exist and cannot be messaged...^
+20 ^Søn^
+21 ^Man^
+22 ^Tir^
+23 ^Ons^
+24 ^Tor^
+25 ^Fre^
+26 ^Lør^
+27 ^Henter nye meldinger...^
+28 ^Total fremdrift:^
+29 ^Nåværende oppgave:^
+30 ^Henter melding %d / %d^
+31 ^Totalt meldingsantall: %d / Uleste meldinger: %d^
+32 ^EA_REP_^
+33 ^Slett alle meldinger av denne typen^
+34 ^Slett alle meldinger fra denne avsenderen^
+35 ^Er du sikker på at du vil slette alle meldinger av denne typen?^
+36 ^Er du sikker på at du vil slette alle meldinger fra denne avsenderen?^
+
+

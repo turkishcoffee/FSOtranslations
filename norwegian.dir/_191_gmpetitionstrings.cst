@@ -1,0 +1,24 @@
+1  ^Ferdig^
+2  ^Avbryt^
+3  ^Lukk^
+4  ^Begjæringstype trakassering^
+5  ^Begjæringstype fastlåst^
+6  ^Begjæringstype annet^
+7  ^Beskrivelse av anmodning^
+8  ^Kontakt kundeservice^
+9  ^Vennligst beskriv ditt problem i området nedenfor:^
+10 ^Problemets type:^
+11 ^Trakassering^
+12 ^Fastlåst^
+13 ^Annet^
+14 ^Kundeservice notifikasjon^    Disciplinary Action dialog Title - Used in SystemMessageRegulator.cpp	JPS 6/16/2002
+
+Below strings are for the Global Petitioning System. Added by adavies@ea.com 7/1/2002
+
+15 ^Begjæring innsendt^  
+16 ^Begjæringsinnsending feilet^  
+17 ^Din hendelse har blitt logget, og vi vil iverksette nødvendige tiltak. Vær oppmerksom på at eventuelle simmer du har klaget over har blitt lagt til listen over ignorerte brukere. Takk.^
+18 ^Det oppstod et problem med å loggføre hendelsen. Ta kontakt med EAs kundeservice. Vær oppmerksom på at eventuelle simmer du har klaget over har blitt lagt til listen over ignorerte brukere. Takk.^
+
+19 ^Begjæring løst^
+20 ^Din begjæring ble løst på ^
