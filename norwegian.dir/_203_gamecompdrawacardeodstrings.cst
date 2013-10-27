@@ -1,0 +1,108 @@
+1  ^Velg kort å endre^
+2  ^Endre spillinfo^
+3  ^StringViewGameInfo-unused^
+4  ^Nytt kort^
+5  ^Endre forrige kort^
+6  ^Endre neste kort^
+7  ^Minsk kortrepetisjon^
+8  ^Øk kortrepetisjon^
+9  ^Slett kort^
+10 ^Lagre nåværende panel^
+11 ^Avslutt^
+12 ^Fremhev og dobbeltklikk et kort for å endre:^
+13 ^StringDeckName-unused^
+14 ^StringDeckOriginalOwner-unused^
+15 ^StringDeckLastEdit^
+16 ^Antall unike kort:^
+17 ^Antall kopierte kort:^
+18 ^Kopier av kort^
+19 ^Standard kortstokk^
+20 ^Denne kortstokken er fullstendig tilpassbar. Du kan redigere denne teksten for å lage dine egne spilleregler.^
+21 ^Kjærlighet er i luften
+Få noen til å si noen si "kjærlighet". (2 poeng for hver)
+Hvis han eller hun sier "hat" først, får du 0 poeng.
+Eller gifte seg! (10 poeng for hver)
+Hvis du blir avvist eller sier du foreslår på grunn av dette kortet, får du 0 poeng.^
+22 ^Bytte!
+Hvis du spiller med lag, velg noen fra det andre laget og bytt plass med ham eller henne.
+Still så ett spørsmål til hver spiller. Du får 1 poeng for hvert "ja" svar, -1 for hvert "nei", og 0 poeng for alle andre svar.^
+23 ^Looneys in Tune
+Uten å chatte eller sende noen tekstmeldinger, få noen til å nevne en tegneseriefigur. (4 poeng)
+Hvis denne personen spiller, får han eller hun to poeng.^
+24 ^Omvendt!
+På tide å snu dette spillet opp ned! Trekk et nytt kort. Etter at kortet er ferdig, fortsetter spillet i motsatt retning av hva det gjorde før - slik at personen som gikk foran deg nå er neste!^
+25 ^Mååååål!
+Sett en ball i målet. Du kan ikke bære den.
+Du får 5 poeng, -1 for hvert fraspark.
+Eller:
+Uten å si "fotball", "ball", "lag", "sport", eller "spiller", få noen til å si "Mål!" (3 poeng)^
+26 ^Duell!
+Plukk en motstander. Velg en kategori: Filmer, nasjoner, spill, biler, ørkener - eller?!
+Bytt på å navngi objekter til du ikke kan tenke på et i løpet av tre minutter.
+Hver nytt navn må være lengre enn det forrige. Vinneren får 3 poeng.^
+27 ^Penger snakker
+Tjen $ 10! Du kan ikke forlate spillet. Alt annet går! Men skynd deg - du har bare 5 minutter. (4 poeng)
+Eller, ta første bokstaven i navnet ditt. Nevn så fire kjendiser som har den første bokstaven. (2 poeng)^
+28 ^Dance Break!
+Dans.  (1 point)
+Få noen til å bli med deg for et poeng til. (Din dansepartner får 1 poeng også.)^
+29 ^Ble du sulten?
+Alle spillere kan finne på et navn til en matrett.
+Nå kan alle velge sin favoritt (men du kan ikke velge din egen).
+Matretten med flest stemmer får 2 poeng.^
+30 ^Fortell sannheten!
+Når har du:
+Skreket til et stillestående objekt? (1 poeng)
+Løyet for et familiemedlem? (2 poeng)
+Kysset noen du ikke liker? (3 poeng)
+Du får bare poeng hvis de fleste andre spillerne tror deg.^
+31 ^Venn eller fiende?
+Trekk et nytt kort. Velg en annen spiller for å hjelpe deg med det og vise ham eller henne kortet.
+Splitt alle poeng du tjener.^
+32 ^Showtime!
+Navngi en dommer. Velg hvem du vil være, fortell dommeren i hemmelighet, og spill det ut!
+Noen ideer: et monster, kjendis, spiller, president, dyr
+En riktig gjetning gir dere begge tre poeng. Etter fem gale gjetninger, får du 0.
+Dommeren får ett poeng uansett.^
+33 ^Pass the buck!
+Velg en annen spiller. Den spilleren må trekke et kort.
+Hvis han eller hun lykkes og tjener poeng, har du mislyktes. (0 poeng)
+Hvis han eller hun ikke klarer oppgaven og har tjent null poeng, lykkes du! (3 poeng)^
+34 ^Goofy-nitions!
+Navngi et ord, eller velg en av disse:
+Katastrofe
+Husk
+Megabyte
+Oksymoron
+Forstå
+Asteroide
+Alle gir en definisjon. Stem på den beste! Ikke bekymre deg om nøyaktighet. Ingen stemmegivning til deg selv!
+Vinneren får 3 poeng.^
+35 ^Double trouble!
+Trekk et nytt kort. Alle opptjente poeng blir doblet! Men se opp - hvis du ikke tjener noen poeng, mister du 5 poeng!^
+36 ^Hva er jeg?
+Plukk et dyr, si det til en spiller ("dommeren").
+Navngi et sted det lever, én ting den spiser, og hva navnet begynner med.
+Alle får tre gjetninger. Første riktig tjener to poeng.
+Du får 2 poeng hvis ingen gjetter riktig.
+Dommeren får 1 poeng.^
+37 ^Det var en gang:
+Fortell den første linjen i en historie. I rekkefølge tilføyer hver andre spiller en linje. Når det er din tur, avslutt historien eller fortsett.
+Du får 2 poeng for å starte og avslutte historien. Alle andre får 1 poeng til å hjelpe.^
+38 ^Følg lederen!
+Du er lederen. Alle må gjøre hva du gjør før noen gjør en feil.
+Hvis noen gjør en feil, ender din tur, og du får tre poeng.
+Hvis ingen gjør en feil etter fem minutter, får du 1 poeng.^
+39 ^Tenk fort!
+Spør en motstander om å navngi en farge, en bokstav og et sted.
+Navngi opp til 3 ting som begynner på bokstaven, kan finnes på dette stedet, og er den fargen. Du får 1 poeng for hver ting du navngir.^
+
+40 ^Spillnavn: ^
+41 ^Originale eier: ^
+42 ^Sist endret av: ^
+43 ^Spillbeskrivelse: ^
+44 ^Vil du lagre dine endringer før du fortsetter?^
+45 ^Du har nå null kort i denne kortstokken.^
+46 ^Vil du slette alle kortene i denne kortstokken?^
+47 ^Ditt nye kort har blitt lagret.  Du har lagret maksimalt antall individuelle kort.^
+48 ^Det er ingen kort å trekke fra denne kortstokken.^

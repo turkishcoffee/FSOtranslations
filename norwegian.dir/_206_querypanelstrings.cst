@@ -1,0 +1,72 @@
+1 ^Generell informasjon^
+2 ^Spesifikk informasjon^
+3 ^Just a long text to test the stuff - This highlights phase B - new architecture: items in the yellow section minus tasks marked "temporary" (items related to UI and Permissions); Multiple players in B/B mode while others on lot; Functional Catalog view and General Object Info panel as they exist.; Some indicator of Roommates objects^
+
+4  ^Sult: %d^
+5  ^Komfort: %d^
+6  ^Hygiene: %d^
+7  ^Blære: %d^
+8  ^Energi: %d^
+9  ^Morro: %d^
+10 ^Rom: %d^
+
+11 ^+Koking^
+12 ^+Mekanikk^
+13 ^+Logikk^
+14 ^+Kropp^
+15 ^+Kreativitet^
+16 ^+Karisma^
+17 ^+Studie^
+
+18 ^Gruppeaktivitet^
+19 ^Utsalgspris: ^
+20 ^Selg tilbake^
+21 ^Legg til ditt inventar^
+22 ^Kjøp fra eieren^
+23 ^Bruk:^
+24 ^Eid av: %s^
+25 ^Nåværende verdi: %s^
+26 ^Pris for salg^
+27 ^Sett objekt til salgs^
+28 ^Avbryt salg^
+29 ^Endre pris for salg^
+30 ^Til salgs:^
+
+31 ^Rull opp^
+32 ^Rull ned^
+
+33 ^Ingen^
+
+34 ^Ødelagt!^
+35 ^Trenger oppgradering!^
+
+36 ^Avslag: %d%% off^
+37 ^Endelig pris: ^
+38 ^Original pris: ^
+
+39 ^Penger: ^
+
+40 ^Objekt til salgs^
+41 ^Objekt: ^
+42 ^Bruk: %d%%^
+43 ^Nåværende verdi: ^
+44 ^Få penger for objektet: ^
+45 ^Dette objektet er ØDELAGT og vil kreve reparasjon før bruk. (Reparasjon vil også øke objektets verdi.)^
+46 ^Pris: ^
+47 ^Vil du kjøpe dette objektet?^
+
+48 ^Nedskrevet verdi og penger i objektet^
+49 ^Nedskrevet verdi^
+
+50 ^Du kan ikke kjøpe dette nå fordi inventaret ditt er for fullt til å legge til et nytt objekt^
+51 ^Du kan ikke kjøpe dette objektet fordi du ikke har nok simoleoner^
+52 ^Selgeren holder på å gjennomgå salgsstatusen og prisen på dette objektet^
+
+53 ^Deaktivert^
+54 ^Dette objektet er MIDLERIDIG DEAKTIVERT.^
+
+55 ^Dette objektet TRENGER OPPGRADERING før bruk. (Oppgradering vil også øke objektets verdi.)^
+
+56 ^Nåværende verdi: %s (Full refusjon)^
+
+57 ^Laget av: %s^
