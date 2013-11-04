@@ -1,0 +1,35 @@
+1  ^Varer du bytter^
+2  ^Varer du vil motta^
+3  ^Avbryt sikker bytting^
+4  ^Beløp du bytter^
+5  ^Beløp du vil motta^
+6  ^Aksepter^
+7  ^Minske beløp^
+8  ^Øk beløp^
+9  ^Andre aksepterer bytting^
+10 ^0^
+11 ^$^
+12 ^Fjern fra bytting^
+13 ^Legg til bytting^
+14 ^Transaksjonen var en suksess!^
+15 ^Bytting avbrutt av bruker!^
+16 ^Feil! Transaksjon refusert av tjener!^
+17 ^Transaksjonen tok for lang tid!^
+18 ^Sikker bytting:^
+19 ^Den andre simmen kan ikke motta flere objekter!^
+20 ^Dette objektet kan ikke byttes!^
+21 ^Forrige katalogside^
+22 ^Neste katalogside^
+23 ^Beklager, din bytting har blitt midlertidig deaktivert!^
+24 ^Beklager, du kan ikke selge tomten mens inventaret er over grensen^
+25 ^Beklager, selgeren kan ikke selge sin tomt mens h*n er over sin inventargrense^
+26 ^Er du sikker? Du mister dine %d billigste objekt(er) hvis du selger tomten fordi du ikke har nok plass i inventaret til å lagre alle dine eksisterende objekter^
+27 ^Er du sikker? Du vil miste noe av dine billigste objekter hvis du selger tomten fordi du ikke har nok plass i inventaret til å lagre alle dine eksisterende objekter^
+28 ^Beklager, kjøperen er over sin objektgrense. Du ønsker kanskje å selge dem bare skjøtet^
+29 ^Beklager, du kan ikke kjøpe tomt og gjenstander fordi du vil være %d objekter over dine grenser.^
+30 ^Beklager, du kan ikke kjøpe tomt og gjenstander fordi du vil være over dine objektgrenser.^
+31 ^Beklager, du kan ikke selge skjøtet og skjøtet med gjenstander.^
+32 ^Beklager, denne handelen kunne ikke finne sted fordi inventargrensene ville bli overskredet.^
+33 ^Opps! Denne handelen kan ikke finne sted fordi inventargrensene vil bli overskredet.^
+34 ^Opps! Denne handelen kan ikke finne sted fordi den andre simmens inventargrenser ville bli overskredet.^
+
