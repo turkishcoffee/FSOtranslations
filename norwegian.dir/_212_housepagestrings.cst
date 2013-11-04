@@ -1,0 +1,26 @@
+﻿1 ^Antall folk på eiendom: %d^
+2 ^Forlater eiendom^
+3 ^Du holder på å forlate eiendommen du er på. Vil du fortsette?^
+4 ^Tilkoblet^
+5 ^Frakoblet^
+6 ^Foreldreblokkering^
+7 ^Eiendomskategori^
+8 ^Du er i ferd med å endre eiendomskategori. En ny kategori vil ha andre egenskaper å sette pris på, men du eier kanskje allerede spesielle objekter som ikke kan brukes i den nye kategorien og du vil miste all besøksbonusen du har samlet i dag.
+Gammel - %s
+Ny - %s
+Du vil ikke få lov til å endre kategori igjen før om %d dag (er). Vil du fortsette?^
+9 ^Din eiendomskategori er endret.
+Gammel - %s
+Ny - %s
+Den nye kategorien vil ha trådd i kraft neste gang din tomt er åpent. Du vil ikke få lov til å endre kategori igjen før om %d dag (er).^
+10 ^Denne meldingen ble sendt på vegne av husets leder.
+Kategorien for din bolig ble endret.
+Gammel - %s
+Ny - %s
+Den nye kategorien vil være i kraft neste gang din tomt er åpen.^
+11 ^(Dine romkamerater vil få beskjed på vegne av deg)^
+12 ^Du er i ferd med å forlate eiendommen du er på og reise langt. Du kan bli sliten etter denne turen.
+Vil du fortsette?^
+13 ^Du er i ferd med å reise en lang avstand. Du kan bli sliten etter denne turen.
+Vil du fortsette?^
+14 ^Langdistansereise^

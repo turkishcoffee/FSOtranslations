@@ -1,0 +1,64 @@
+1 ^Kobler til eiendom...^
+2 ^Total fremgang^
+3 ^Nåværende oppgave^
+4 ^Konfigurerer som tjener...^
+5 ^Sim-opprettelse feilet^
+6 ^Mest sannsynlige årsak - din sim sitt navn er allerede i bruk.^
+7 ^Eiendom er ikke online.^
+8 ^Du kan ikke entre denne eiendommen fordi ingen av eierne er tilstede for øyeblikket.^
+9 ^Tjeneren forlot nettopp denne tomten.^
+10 ^Umulig å koble til.^
+11 ^Besøke eiendom feilet.^
+12 ^Klarte ikke åpne din eiendom fordi byen er for opptatt. Vennligst prøv igjen senere.^
+13 ^Kartvisningsfeil^
+14 ^Umulig å selge din tomt fordi du har romkamerater.^
+15 ^Transaction var vellykket^
+16 ^Du har kjøpt en ny eiendom. Gled deg!^
+17 ^Kjøp av eiendom feilet^
+18 ^Kan ikke kjøpe eiendommen. En av tre ting ha skjedd: 1) Eiendomsnavnet du har valgt er allerede i bruk, 2) En annen har allerede kjøpt denne eiendommen, eller 3) Dine midler er utilstrekkelige. Prøv et annet navn eller eiendom, og kontroller at du har nok midler til å fullføre transaksjonen.^
+19 ^Selger eiendom^
+20 ^Hvis du selger eiendommen, vil eierskapet bli overført til din romkamerat %s og alle de gamle eiendelene vil bli flyttet til ditt inventar. Ønsker du å selge din bolig?^
+21 ^Du har romkamerater, hvis du selger tomten vil alle dine gamle eiendeler bli flyttet til inventar. Ønsker du å selge din bolig?^
+22 ^Eiendommens plassering lokalisert...^
+23 ^Verifiserer tillatelser...^
+24 ^Forsøker å tilkobles en leilighet...^
+25 ^Tilkoblingen var vellykket. Ber om eiendomsdata...^
+26 ^Henter eiendomsdata...^
+27 ^Eiendomsdata hentet. Entrer eiendom...^
+28 ^Romtilkoblingsfeil Eiendommen er ikke klar for deg, prøv igjen senere^
+29 ^Romtilkoblingsfeil Systemets gass vil ikke tillate deg å bytte eiendom så raskt^
+30 ^Romtilkoblingsfeil Utestående sammenføyning av tomt hindrer denne tomtesammenføyningen fra å skje^
+31 ^Romtilkoblingsfeil - Denne tomten er full.^
+32 ^Romtilkoblingsfeil - Denne eiendommen ble ikke funnet. Den er sannsynligvis ikke lengre tilkoblet.^
+33 ^Romtilkoblingsfeil - Denne eiendommen krever et passord for å delta.^
+34 ^Romtilkoblingsfeil - Du oppga et feil passord.^
+35 ^Romtilkoblingsfeil - Ingen utgang definert?^
+36 ^Romtilkoblingsfeil - Romnavn lukket^
+37 ^Romtilkoblingsfeil - Feil romdata^
+38 ^Romtilkoblingsfeil - Klarte ikke å tilkobles leiligheten flere ganger.^
+39 ^Romtilkoblingsfeil - Rom er allerede rad til forelderens scenerom^
+40 ^Romtilkoblingsfeil - Romtilkoblingsfeil - Eiendom er allerede tilkoblet.^
+41 ^Denne eiendommen er lukket. Vennligst prøv igjen senere.^
+42 ^Denne eiendommen har spesielle tillatelser som utelukker deg fra å delta akkurat nå.^
+43 ^Romtilkoblingsfeil ukjent %d^
+44 ^Opprettromrespons != status_SUCCESS %s.^
+45 ^Klarte ikke koble til eiendommen^
+46 ^Klarte ikke kjøpe eiendommen. Eiendommen du forsøkte å kjøpe har allerede blitt kjøpt av noen andre.^
+47 ^Mangler noen objekter ?^
+48 ^Noen objekter har kanskje blitt flyttet til eierens inventar.^
+49 ^En eller flere av objektene har kanskje forsvunnet. Beklager!^
+50 ^Klarte ikke flytte din eiendom.^
+51 ^Klarte ikke flytte din nåværende eiendom. Den nye plasseringen du har valgt har allerede blitt tatt.^
+52 ^Klarte ikke flytte din nåværende eiendom. Det ser ut til at du ikke lenger er en eier av eiendommen du har valgt å flytte.^
+53 ^Klarte ikke flytte din nåværende eiendom. Eiendommen er tilkoblet. Eiendommen må være frakoblet for å bli flyttet.^
+54 ^Klarte ikke flytte din nåværende eiendom. Det ser ut til at du ikke lenger eier en eiendom.^
+55 ^Klarte ikke flytte din nåværende eiendom. En ukjent feil har oppstått. Vennligst prøv igjen.^
+56 ^Flytter eiendom...^
+57 ^Vennligst vent mens din eiendom flyttes til den nye plasseringen...^
+58 ^Eiendomsflyttingen var en suksess^
+59 ^Din eiendom har blitt flyttet til den nye plasseringen.^
+60 ^Eiendomsflytting feilet^
+61 ^Et forsøk på å flytte din eiendom til den nye plasseringen har sviktet. Det er mulig at den nye plasseringen allerede er tatt eller en ukjent feil har oppstått. Vennligst prøv igjen eller velg et annet sted.^
+62 ^Et forsøk på å flytte din eiendom til den nye plasseringen har sviktet. Det ser ut til at du ikke har nok midler til å flytte din eiendom til ønsket plassering.^
+63 ^Noen objekter på eiendommen din var eid av noen som ikke er en romkamerat. De har blitt fjernet.^
+64 ^Kan ikke kjøpe eiendommen. Før du kjøper en eiendom, vennligst forlat tomten hvor du spiller og gå tilbake til kartvisning.^

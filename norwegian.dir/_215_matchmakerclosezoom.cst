@@ -1,0 +1,69 @@
+1  ^Forlater eiendom^
+2  ^Du holder på å forlate eiendommen du er på. Vil du fortsette?^
+3  ^Eiendommens navn: %s^
+4  ^Antall folk på eiendommen: %d^
+5  ^Dette er din eiendom^
+6  ^Frakoblet^
+7  ^Du kan ikke bygge her.^
+8  ^Foreldrekontroller blokkerer denne teksten.^
+9  ^Ubesatt tomy: $%d^
+10 ^Flytt eiendom^
+11 ^Kjøp eiendom^
+
+// Leader with roommates move/buy lot dialog ***********************************
+
+12 ^Vil du flytte din eksisterende eiendom og romkamerater til denne nye plasseringen? 
+
+Denne eiendommen koster %s og du har %s i kontanter.
+
+Hvis du flytter, vil du betale %s - kostnaden av denne eiendommen pluss %s flytteavgift, men du vil bli refundert %s - verdien av din gamle eiendom.
+
+Vennligst merk: din eiendom må være pålogget for å bli flyttet.
+
+Hvis du ønsker å kjøpe denne eiendommen og starte på nytt, må du flytte ut av din nåværende bolig først.^ 
+
+13 ^Start på nytt^
+14 ^Flytt eiendom^
+15 ^Avbryt^
+
+// Leader with no roommates move/buy lot dialog *********************************
+
+16 ^Ønsker du å flytte din eksisterende eiendom til dette nye stedet?
+
+Denne eiendommen koster %s og du har %s i kontanter.
+
+Hvis du flytter, vil du betale %s - kostnaden av denne eiendommen pluss %s flytteavgift, men du vil bli refundert %s - verdien av din gamle eiendom.
+
+Vennligst merk: din eiendom må være pålogget for å bli flyttet.
+
+Hvis du ønsker å kjøpe denne eiendommen og starte på nytt, må du flytte ut av din nåværende bolig først.^
+
+17 ^Flytt eiendom^
+18 ^Riv og kjøp^
+19 ^Avbryt^
+
+// Roommate buy lot dialog ******************************************************
+
+20 ^Vil du forlate eksisterende eiendom og kjøpe denne (du vil beholde objekter)?
+
+Denne eiendommen koster %s og du har %s i kontanter.^
+
+21 ^Ja^
+22 ^Nei^
+
+// Buy lot dialog ***************************************************************
+
+23 ^Før du kjøper din egen eiendom, bør du vurdere å finne eksisterende eiendommer som trenger romkamerater. Ved å ha romkamerater kan du kjøpe flere ting, utvide byggbar plass, og huse flere besøkende (som gir deg penger).
+
+Denne eiendommen koster %s og du har %s i kontanter. Ønsker du å kjøpe denne eiendommen?^
+
+24 ^Ja^
+25 ^Nei^
+
+26 ^Du har ikke nok midler til å kjøpe denne eiendommen.^
+27 ^Du har ikke nok midler til å flytte eiendommen.^
+28 ^Din eiendom må være frakoblet for å kunne flyttes.^
+29 ^Flytt eiendom^
+30 ^Er du sikker på at du vil flytte eiendommen din til den nye plasseringen?^
+31 ^Hvis du ønsker å kjøpe denne eiendommen, må du flytte ut av din nåværende bolig først.^
+
