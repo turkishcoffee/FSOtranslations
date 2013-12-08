@@ -1,0 +1,23 @@
+1  ^The Sims Online spillerhjelp^
+2  ^Har du et spørsmål?^
+3  ^Skriv det inn og klikk "Spør nå"^	
+4  ^(Eller bare klikk "Spør nå" for å gå direkte til våre vanligste stilte spørsmål^
+5  ^Hvis du observerer en spiller som bryter våre rettningslinjer, kan du rapportere det her^
+6  ^Hint og tips^
+7  ^Spør nå^
+8  ^Klag på en spiller^
+9  ^Hvordan ignorere og unngå en annen spiller^
+10 ^Avbryt^
+11 ^Hint og tips for hvordan spille spillet^
+12 ^Få dine spørsmål besvar^
+13 ^Loggfør en klage på en annen spiller^
+14 ^Lær hvordan ignorere og unngå en annen spiller^
+15 ^Avslutt og gå tilbake til spillet^
+16 Hints and tips URL		^http://thesimsonline.custhelp.com/^  
+17 1st half of Ask Now URL	^http://thesimsonline.custhelp.com/cgi-bin/thesimsonline.cfg/php/enduser/std_alp.php?p_sid=ZOxxeXgg&p_lva=&p_li=&p_page=1&p_prod_lvl1=%7Eany%7E&p_prod_lvl2=%7Eany%7E&p_cat_lvl1=%7Eany%7E&p_cat_lvl2=%7Eany%7E&p_search_text=^
+18 2nd half of Ask Now URL	^&p_new_search=1&p_search_type=3&p_sort_by=dflt^
+* How to Ignore URL is in the PlayerPetitionShared.cst.
+19 ^Vi klarte ikke å starte nettleseren. Hvis du er en AOL-kunde så kan du starte AOL nå og klikke på den samme knappen i denne dialogen igjen. Ellers kan du besøke vårt nettsted på www.TheSimsOnline.com for linker til våre hjelpesider.^
+20 ^Teknisk support chat^												Tech Chat button text
+21 ^Chat med en live teknisk support-person^						Tech Chat tooltip text
+22 ^http://techchat.ea.com:4080/chat/world/html/index3.html^	Tech Chat URL

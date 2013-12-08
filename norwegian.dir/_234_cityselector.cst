@@ -1,0 +1,26 @@
+1 ^Hvilken by vil du bo i?^
+2 ^Ok^
+3 ^Avbryt^
+4 ^Rull opp^
+5 ^Rull ned^
+6 ^Byens navn^
+7 ^Oppe^
+8 ^Simmer pålogget^
+9 ^Status^
+10 ^Sorter etter bynavn^
+11 ^Sorter etter byens påloggingsstatus^
+12 ^Sorter etter antall påloggede simmer^
+13 ^Sorter etter byens status^
+14 ^Ja^
+15 ^Nei^
+16 ^Opptatt^
+17 ^Full^
+18 ^Opptatt/Full^
+19 ^Ok^
+20 ^By utilgjengelig^
+21 ^Du har allerede laget en sim i den byen. Det er tillatt bare én sim per by. For å opprette en annen sim i denne byen må du først slette den forrige simmen...^
+22 ^Byen er full^
+23 ^Denne byen er full, beklager! Ingen kan lage noen flere nye simmer for denne byen...^
+24 ^Byen er opptatt^
+25 ^Denne byen er midlertidig opptatt og kan ikke godta noen nye forbindelser. Vennligst prøv igjen om noen minutter...^
+26 ^Stengt^

@@ -1,0 +1,47 @@
+1  ^Klage^
+2  ^Trakasseringsklage^
+3  ^Juksing/utnyttingsklage^
+4  ^Illegal aktivitets-klage^
+5  ^Hatefullt språk/oppførselsklage^
+6  ^Uriktig eiendom / Sim / Signatur-klage^
+7  ^For å sende inn en begjæring, må du fylle inn all nødvendig informasjon. Vennligst bruk dette verktøyet kun for legitime klager. Misbruk kan resultere i tiltak mot kontoen din.^
+8  ^Hva går din klage ut på?^
+9  ^Merk: Vi godtar ikke begjæringer om uanstendighet, banning i chat, telefonsamtaler eller E-post. Vennligst bruk "Ignore"-funksjonen for å unngå å bli plaget.^
+10 ^Kort beskrivelse av problemet.^
+11 ^Detaljert beskrivelse av problemet. Pass på å beskrive rollen til hver Sim du har valgt til venstre.^
+12 ^Velg opp til %d Sims eller %d eiendom fra listen nedenfor (bruk Ctrl-Klikk for flere velg). Dersom den uakseptable Simmen er ikke på listen, kan du legge dem til ved hjelp av redigeringsboksen nedenfor.^
+13 ^Objekter i spillet (noe som er stavet eller laget ved hjelp av objekter)^
+14 ^Tekstvarsler (beskrivelser, navn, tegn eller notater)^
+15 ^Sim (chat, meldinger, simbeskrivelse eller navn)^
+16 ^Avbryr^
+17 ^Avslutt og gå tilbake til spillet^
+18 ^Kan ikke finne sim^
+19 ^Simmen du forsøkte å legge til ble ikke funnet.^
+20 ^Legg til^
+21 ^Legg eiendom eller sim til listen over^
+22 ^Tilbake^
+23 ^Gå tilbake til forrige dialog^
+24 ^Send inn^
+25 ^Send inn klagen^
+26 ^Rull opp^
+27 ^Rull ned^
+28 ^Klage på objekter^
+29 ^Klage på tekst^
+30 ^Klage på simmer^
+31 ^^
+32 ^^
+33 ^^
+34 ^^
+
+These strings have constants in the code.  If their ID changes then the code needs to be updated and compiled.
+35 ^Petition Form^
+36 ^Please type in the name of the Sim you would like to add into the text edit box next to the Add button before clicking on Add.^
+37 ^That entry already exists.  Please only add unique Sim names.^
+38 ^^
+39 ^^
+
+These are tooltips for the submit button
+40 ^Need complaint type^
+41 ^Need to select Sim or property^
+42 ^Need brief description^
+43 ^Need detailed description^

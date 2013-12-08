@@ -1,0 +1,15 @@
+// Async Sale String
+1 ^Objekt til salgs^
+2 ^Du har merket din %s for salg.^
+3 ^Angi din salgspris.^
+4 ^Øk kjøpspris^
+5 ^Minske kjøpspris^
+6 ^Kjøpspris^
+7 ^Godta endringer^
+8 ^Lukk vindu og avbryt endringer^
+9 ^$^
+10 ^Dette brevet ble sendt på vegne av en kunde. Et objekt du merket for salg ble kjøpt.
+'%s' som opprinnelig kostet %s ble solgt for %s til %s.^
+11 ^Salgstransaksjon ferdig^
+12 ^Butikksregnskap^
+13 ^Beklager, kjøpet ditt kan ikke gjennomføres. Kanskje objektet ikke lenger er tilgjengelig, eller dets status for tiden er under vurdering av selgeren.^
