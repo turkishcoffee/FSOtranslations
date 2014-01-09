@@ -1,0 +1,9 @@
+// BuyBuild mode strings strings
+1 ^Du kan bare eie ^
+2 ^ objekter på din eiendom. Du er fem gjenstander bort fra denne grensen. Over tid vil du være i stand til å ha flere objekter.^
+3 ^Oops, har du nådd din objektgrense. Du får visst gjøre litt rent.^
+4 ^Du har nådd maksimalt antall objekter som er tillatt på eiendommen din. Å begrense antall objekter på en eiendom gir oss mulighet til å opprettholde stabilitet i spillet. For å legge til objekter i fremtiden, må du fjerne noen av de objektene som allerede eksisterer på eiendommen.^
+5 ^Eiendomskategori^
+6 ^Den lokale eiendomskategorien vil ikke tillate interaksjon med dette objektet. Er du sikker på at du vil kjøpe det nå?^
+7 ^Den lokale eiendomskategorien vil ikke tillate interaksjon med dette objektet. Er du sikker på at du vil flytte det ut av inventaret ditt nå?^
+

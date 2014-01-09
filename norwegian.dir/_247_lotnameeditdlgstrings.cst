@@ -1,0 +1,18 @@
+1  ^Forandre eiendommens navn^
+2  ^Vennligst skriv inn et nytt navn for din eiendom. Husk at navnet må være unikt og følge visse retningslinjer.^
+3  ^Navnet du har tastet inn er ugyldig. Følgende problem(er) er funnet:^
+4  ^- Navnet er for kort. Trenger minst tre tegn.^
+5  ^- Navnet er for langt. Maksimum 24 tegn er tillatt.^
+6  ^- Ingen numeriske (0-9) tegn er tillatt.^
+7  ^- Bare én apostrof (') er tillatt.^
+8  ^- Bare én bindestrek (-) er tillatt.^
+9  ^- Bare to ikke-sammenhengende mellomrom er tillatt.^
+10 ^- Ingen spesielle tegn er tillatt.^
+11 ^- Et reservert eller feil ord har blitt oppdaget.^
+12 ^Avbryt forandringer^
+13 ^Lagre nytt navn^
+14 ^Forandring av eiendommens navn feilet^
+15 ^Eiendomsnavnet du har bedt om kunne ikke settes. Noen har allerede tatt det, og derfor er det ikke unikt ...^
+16 ^Skriv inn Foreldrekontroll-passordet for å endre eiendommens navn.^
+17 ^Passordet er feil. Vennligst prøv igjen.^
+18 ^Feil passord.^

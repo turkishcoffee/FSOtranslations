@@ -1,0 +1,16 @@
+1  ^Kjøp eiendom^
+2  ^Vennligst skriv inn et navn for den nye eiendommen. Navnet må være unikt, og kan senere endres i Eiendomssiden.^
+3  ^Navnet du har tastet inn er ugyldig. Følgende problem(er) er funnet:^
+4  ^- Navnet er for kort. Trenger minst tre tegn.^
+5  ^- Navnet er for langt. Maksimum 24 tegn er tillatt.^
+6  ^- Ingen numeriske (0-9) tegn er tillatt.^
+7  ^- Bare én apostrof (') er tillatt.^
+8  ^- Bare én bindestrek (-) er tillatt.^
+9  ^- Bare to ikke-sammenhengende mellomrom er tillatt.^
+10 ^- Ingen spesielle tegn er tillatt.^
+11 ^- Et reservert eller feil ord har blitt oppdaget.^
+12 ^Avbryt kjøpet^
+13 ^Kjøp eiendommen^
+14 ^Skriv inn Foreldrekontroll-passordet for å oppgi dette som eiendommens navn.^
+15 ^Passordet er feil. Vennligst prøv igjen.^
+16 ^Feil passord.^
