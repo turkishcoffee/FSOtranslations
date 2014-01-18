@@ -1,0 +1,23 @@
+
+The next 5 are tool tips
+1 ^Lisää Uusi Hahmo^
+2 ^Poista Valitsemasi Henkilö^
+3 ^Muuta Valitsemaasi Henkilöä^
+4 ^Hyväksy Muutokset^
+5 ^Peruuta^
+
+6 ^Poistetaanko hahmo?^
+7 ^Oletko varma, että haluat poistaa tämän hahmon?^
+
+8 ^Perutaanko?^
+9 ^Oletko varma, että haluat perua ja menettää tämän perheen?^
+
+// not actually used yet, but will be
+10 ^Suunnittele Perhe^
+11 ^Valmis^
+12 ^Peruuta^
+
+13 ^Syötä Sukunimi:^
+
+14 ^Valmis?^
+15 ^Oletko varmasti valmis?  Et voi enää Palata muokkaamaan tätä perhettä Suunnittele-Perhe ruutuun.^
