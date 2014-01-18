@@ -1,0 +1,29 @@
+1  ^Peruuta^
+2  ^Hyväksy^
+3  ^Syötä sim:isi nimi tähän. Tämä on nimi, jolla muut pelaajat tuntevat sinut ja jota ei pysty myöhemmin muuttamaan^
+4  ^Muut pelaajat näkevät tämän kuvailun pelissä sinun sim sivulta. Ole huoleti siitä, jos et kirjoittanut sitä täsmälleen oikein... voit muuttaa sitä myöhemmin.^
+5  ^Poistu Pelistä^
+6  ^Nainen^
+7  ^Mies^
+8  ^Vaalea^
+9  ^Ristiverinen^
+10 ^Tumma^
+11 ^Nimi, jonka syötit on epäkelpoinen. Seuraava(t) ongelmat löydettiin:^
+12 ^- Nimi liian lyhyt. Tarvitsee olla ainakin 3 merkkiä.^
+13 ^- Nimi liian pitkä. Enintään 24 merkkiä on sallittu.^
+14 ^- Numerolliset (0-9) merkit eivät ole sallittuja.^
+15 ^- Vain yksi heittomerkki (') on sallittu.^
+16 ^- Vain yksi viiva (-) on sallittu.^
+17 ^- Vain kaksi jatkumatonta välilyöntiä on sallittu.^
+18 ^- Erikoismerkit eivät ole salittuja.^
+19 ^- Poikkeus tai sopimaton sana havaittiin.^
+20 ^Vieritä Ylös^
+21 ^Vieritä Alas^
+22 ^Luo pelinsisäinen henkilöllisyytesi^
+23 ^Lempi. musiikki: 
+Lempi. elokuva:
+Tykkäämiset:
+Vastenmieliset:
+ Lainaus: ^
+24 ^Luodaan Uutta Sim:iä...^
+25 ^Ole hyvä ja odota sillä välin, kun sinun uutta sim:iä luodaan...^
