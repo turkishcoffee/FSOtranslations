@@ -1,0 +1,154 @@
+kPErrLocationOutOfBounds
+^Sijainti rajojen ulkopuopella^
+
+kPErrLevelOutOfBounds
+^Kerros rajojen ulkopuolella^
+
+kPErrMustBeAtTileCenter
+^Täytyy olla keskellä lattiaruutua^
+
+kPErrMustBeInCorner
+^Täytyy olla nurkassa^
+
+kPErrCantBeInCorner
+^Ei voi olla nurkassa^
+
+kPErrMustBeAgainstWall
+^Täytyy olla seinää vasten^
+
+kPErrCantBeThroughWall
+^Ei saa olla seinää vasten^
+
+kPErrMustBeOnUpstairsFloorHole
+^Täytyy olla reijän yläpuolella lattiassa^
+
+kPErrMustBeOutside
+^Täytyy olla ulkona^
+
+kPErrMustBeInside
+^Täytyy olla sisällä^
+
+kPErrCantIntersectOtherObjects
+^Ei saa leikata muita esineitä^
+
+kPErrMustBeOnGround
+^Täytyy olla maassa sen omassa lattiaruudussaan^
+
+kPErrCantFindSlot
+^Ei löydy paikkaa johon asettaa se^
+
+kPErrCantSupportWeight
+^Ei tue painoa^
+
+kPErrCantSupportSize
+^Ei tue kokoa^
+
+kPErrCantPlaceOnTop
+^Et voi sijoittaa päälle^
+
+kPErrCantPlaceOnSlope
+^Ei voi sijoittaa rinteeseen^
+
+kPErrCantPlaceInAir
+^Täytyy sijoittaa toisen kerroksen lattiaruutuun^
+
+kPErrNotAllowedOnFloor
+^Täytyy sijoittaa maastoon^
+
+kPErrNotAllowedOnTerrain
+^Täytyy sijoittaa lattiaruutuun^
+
+kPErrCantAfford
+^Varat eivät riitä^
+
+kPErrMustBeAgainstUnusedWall
+^Täytyy olla puhdasta seinää vasten^
+
+kPErrMustBeOnDiagonal
+^Täytyy olla vinottain^
+
+kPErrHeightNotAllowed
+^Täytyy sijoittaa pöydälle tai pinnalle^
+
+kPErrInsufficientFunds
+^Varat eivät riitä^
+
+kPErrSpecialShowMoneyError
+^Käyttäjän ei pitäisi koskaan nähdä tätä viestiä^
+
+kPErrHasWater
+^Ei voi lisätä enempää vettä^
+
+kPErrNoWater
+^Ei poistettavaa vettä^
+
+kPErrCantPlaceOnWater
+^Ei voi sijoittaa veteen^
+
+kPErrMustPlaceOnWater
+^Täytyy sijoittaa veteen^
+
+kPErrMustPlaceOnPool
+^Täytyy sijoittaa allasruutuun^
+
+kPErrMustBeOnFirstLevel
+^Täytyy sijoittaa ensimmäiseen kerrokseen^
+
+// wall-specific
+kPErr2ndFloorNeedsSupport,
+^Toisen kerroksen seinä tarvitsee jalustan ensimmäisestä kerroksesta^
+
+kPErrMustRemoveObjectsOnWall,
+^Ensin täytyy poistaa seinässä olevat esineet^
+
+// wallpaper-specific
+kMustBeAgainst2ndFloorWall
+^Täytyy olla toisen kerroksen seinässä^
+
+kPErrCannotDeleteObject
+^Et voi valita käytössä olevaa esinettä^
+
+kPErrObjectNotOwnedByYou
+^Et omista tätä!^
+
+kPErrCounterHeight
+^On sijoitettava laskuriin^
+
+kPErrCantBePickedup
+^Ei voida poimia^
+
+kPErrInUse
+^Et voi valita käytössä olevaa esinettä^
+
+kPErrCantBePickedupOutOfBounds
+^Ei voida poimia--Sijainti rajojen ulkopuolella^
+
+kPErrCantEffectFirstLevelFromSecondLevel
+^Ei voida vaikuttaa ensimmäiseen kerrokseen toisesta kerroksesta^
+
+kPErrCantPlaceInAirOtherLevel
+^Täytyy sijoittaa toiseen kerrokseen^
+
+kPErrNotAllowedOnFloorOtherLevel
+^Ei voi leikata toisen kerroksen esinettä^
+
+kPErrCannotPlaceComputerOnEndTable,
+^Ei voida asettaa pöydän päätyyn^
+
+kPErrCannotDeletePoolWhilePeopleAreInIt
+^Et voi poistaa uima-allasta, jossa on on simejä.^
+
+kPErrMustRemoveLadderOrDivingBoardBeforeDeletingPool
+^Poista ensin allastikkaat ja/tai hyppylauta^
+
+kPErrCannotWallpaperFence
+^Aitoja ei voi tapetoida^
+
+kPErrMustHaveMoreSpaceFromCeiling
+^Täytyy olla kauempana sisäkatosta^
+
+kPErrTooManyObjectsOnTheLot
+^Tontin esine raja ylitetty^
+
+kpErrCantPlaceOnForSaleObject
+^Et voi asettaa myynnissä olevan esineen päälle^
