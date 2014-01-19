@@ -59,7 +59,7 @@ kPErrNotAllowedOnTerrain
 ^Täytyy sijoittaa lattiaruutuun^
 
 kPErrCantAfford
-^Varat eivät riitä^
+^Rahat eivät riitä^
 
 kPErrMustBeAgainstUnusedWall
 ^Täytyy olla puhdasta seinää vasten^
@@ -71,7 +71,7 @@ kPErrHeightNotAllowed
 ^Täytyy sijoittaa pöydälle tai pinnalle^
 
 kPErrInsufficientFunds
-^Varat eivät riitä^
+^Rahat eivät riitä^
 
 kPErrSpecialShowMoneyError
 ^Käyttäjän ei pitäisi koskaan nähdä tätä viestiä^
