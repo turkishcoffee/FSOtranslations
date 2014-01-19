@@ -1,0 +1,51 @@
+	kOccupiedHouseText,
+	kEmptyHouseTextNormalText,
+	kEmptyHouseTextMoveInModeCannotAffordText,
+	kEmptyHouseTextMoveInModeCanAffordText,
+	kEmptyLotMoveInCannotAffordText,
+	kEmptyLotMoveInModeCanAffordText,
+	kTutorialText,
+	kStreetAddressText,
+	kTutorialCannotMoveInText,
+
+^Perhe %s
+Yhteisarvo: %s
+Yst‰v‰t: %d^
+
+^Hinta: %s
+Valitse tai luo perhe ja muuta heid‰t pelaamaan.^
+
+^Hinta: %s
+Perheell‰ %s on vain %s.  Heill‰ ei ole varaa t‰h‰n taloon.^
+
+^Hinta: %s
+T‰m‰ saattaa olla unelmiesi talo!  Jos ostat, perheelle j‰‰ %s huonekalujen ostamiseen.^
+
+^Hinta: %s
+Perheell‰ %s on vain %s.  Heill‰ ei ole varaa t‰h‰n tonttiin.^
+
+^Hinta: %s
+T‰m‰ saattaa olla unelmiesti tontti!  Jos ostat, perheelle j‰‰ %s talon rakentamiseen ja huonekalujen ostamista varten.^
+
+^Pelaa peli‰ oppiaksesi talon tavoille...^
+
+^%s Sim Lane^
+
+^Tutoriaali taloon ei voi muuttaa!^
+
+^Perhe %s
+Yhteisarvo: %s
+Yst‰v‰t: %d
+Klikkaa h‰‰t‰‰ksesi t‰m‰ perhe.^
+
+^Klikkaa tuhotaksesi t‰m‰ talo.^
+
+^T‰‰ll‰ ei ole ket‰‰n h‰‰dett‰v‰‰, eik‰ mit‰‰n tuhottavaa.^
+
+^Et voi jyr‰t‰ tutoriaali taloa ennen, kun olet suorittanut tutoriaalin.^
+
+^Tervetuloa kotiin %s!^
+^Yhdist‰ taloon "%s" joka sijaitsee "%s":ssa. T‰‰ll‰ %s t‰m‰n talon sis‰ll‰.^
+^Tervetuloa kotiin %s!  Talosi on jo verkossa, "%s":ssa.  T‰‰ll‰ %s t‰m‰n talon sis‰ll‰.^
+^on 1 henkilˆ^
+^on %d henkilˆ‰^
