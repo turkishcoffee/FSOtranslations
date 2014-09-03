@@ -1,0 +1,22 @@
+// kTSOAssetStringNeighborhoodDialog
+1 ^Nabolagstilhørighet^
+2 ^Nabolag tillater eiendommer å gå sammen for en større tilstedeværelse i kartvisningen. Skriv inn navnet på et nytt nabolag du ønsker å starte, eller velg et annet nabolag for å bli med. Dette navnet vil vises lokalt så lenge det er minst tre medlemseiendommer, inkludert din.^
+3 ^Ok^
+4 ^Avbryt^
+5 ^Ingen nabolag^
+6 ^Nabolagsfeil^
+7 ^Nabolagsnavnet du skrev inn er allerede i bruk. Vennligst prøv et nytt navn.^
+8 ^Opprett nytt nabolag^
+9 ^Bli med i dette nabolaget^
+10 ^Skriv et navn her eller velg ett fra listen nedenunder.^
+11 ^Ingen nabolagstilhørighet^
+12 ^Ingen forandring^
+13 ^Navnet du har tastet inn er ugyldig. Følgende problem(er) er funnet:^
+14 ^- Navnet er for kort. Trenger minst tre tegn.^
+15 ^- Navnet er for langt. Opptil 24 tegn er tillatt.^
+16 ^- Ingen numeriske (0-9) tegn er tillatt.^
+17 ^- Bare en apostrof (') er tillatt.^
+18 ^- Bare en strek (-) er tillatt.^
+19 ^- Bare to ikke-tilstøtende mellomrom er tillatt.^
+20 ^- Ingen spesielle tegn er tillatt.^
+21 ^- Et reservert eller feil ord har blitt oppdaget.^

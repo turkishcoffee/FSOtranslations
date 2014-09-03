@@ -1,0 +1,32 @@
+1  ^Plassér dine spill... ^
+2  ^Spinner.  Ingen flere spill.^
+3  ^Rød ^
+4  ^Svart ^
+5  ^ vinner!  ^
+6  ^Du vant $%d!^
+7  ^%s vant $%d.^
+8  ^Klikk for å velge en $%d brikke å spille^
+9  ^For ett nummer utbetales 35-1^
+10 ^For to nummer utbetales 17-1^
+11 ^For tre nummer utbetales 11-1^
+12 ^For fire nummer utbetales 8-1^
+13 ^For fem nummer utbetales 6-1^
+14 ^Utbetales 2-1^
+15 ^Utbetales 1-1^
+16 ^Ingen flere spill^
+17 ^Vent for å spille^
+18 ^Hold for å vise alle spill^
+19 ^Totalt antall spill: $%d^
+20 ^Spill fra utsiden krever minst et minimum antall spill per brikke^
+21 ^Maks spill er $%d.^
+22 ^Minimum spill er $%d.^
+23 ^Totalt antall spill: $%d.^
+24 ^Du tapte $%d.^
+25 ^$%d brikker ville blitt over maksimumsgrensen for spill^
+26 ^Etter denne runden vil bordet stenge.^
+27 ^%s tapte $%d.^
+28 ^Venter på spillere^
+29 ^The croupier may not bet^
+30 ^Total vunnet: $%d^
+31 ^Total tapt: $%d^
+32 ^For seks nummer utbetales 5-1^

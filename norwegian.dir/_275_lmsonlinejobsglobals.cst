@@ -1,0 +1,34 @@
+// OJGlobals
+// 309  Maxis Letter Subject Strings
+1 ^Unnskyldt fravær?^
+2 ^Hvor var du?^
+3 ^Vi beklager virkelig^
+4 ^Sikkerhet først^
+5 ^Måloppnåelse^
+
+// 310  Maxis Letter Body Strings
+6 ^Vi la merke til at du forlot arbeidet i løpet av en runde. Vi antar at du måtte gå hjem på grunn av sykdom, panda angrep, eller andre uventede uhell.
+Du har %s unnskyldt fravær gjenværende denne måneden.
+Du bruker et unnskyldt fravær når du forlater en jobb før en runde er over. Hvis du bruker mer enn %s kan du finne det vanskelig å bli forfremmet. Du kan til og med bli degradert. Unnskyldt fravær tilbakestilles på den første i hver måned.
+HUSK: Du kan forlate arbeidet under pausen uten straff.^
+//$Local:1  $Local:2
+
+7 ^Store Cæsars spøkelse! Ditt fravær har kommet ut av kontroll. Du har forlatt arbeidet tidlig %s ganger denne måneden. Jeg håper du vet at dette vil gå ned på din faste posten.
+Du har null unnskyldt fravær gjenværende denne måneden. Hvis du ikke tror du vil være i stand til å fullføre en runde, bør du forlate tomten i løpet av pausen. Hvis du bruker for mange unnskyldte fravær, kan du finne det vanskelig å bli forfremmet. Du kan til og med bli degradert. Unnskyldt fravær tilbakestilles på den første i hver måned.^
+// $Local:3 
+
+8 ^Vi er veldig lei for å høre om ditt plutselige og uventede tap av liv og / eller lem på arbeidsplassen. Skulle du finne deg selv igjen blant de levende, vil du beholde din nåværende jobb og grad.
+Du har blitt kastet ut fra arbeidsplassen fordi du er et spøkelse. Hvis du besøker en sjaman eller venter noen timer, kan du bli revitalisert. Du kan benytte anledningen til å besøke andre tomter. Men du kan ikke jobbe mens du er død. Selskapet anbefaler at du unngår å bli død på jobb i fremtiden.^
+
+9 ^Du har blitt kastet ut fra arbeidsplassen fordi du sov på jobben. Du kan ikke jobbe mens du sover. Selskapet anbefaler at du unngår å sove på jobb i fremtiden.^
+
+10 ^Du har blitt kastet ut fra arbeidsplassen fordi du ble degradert. Dine ferdigheter, erfaring og vennskap er ikke lenger nok for denne jobbgraden.^
+
+11 ^Informatsjon om din nye jobb^
+
+12 ^Ta vare på denne informasjonen i tilfelle du trenger å trenge å referere til den igjen.
+Nåværende stillingstype: %s %s
+Tittel: %s
+Timer: %s fra %s til %s, henting etter %s
+Neste forfremmelse: %s^
+

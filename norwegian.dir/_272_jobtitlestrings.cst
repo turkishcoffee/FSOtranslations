@@ -1,0 +1,70 @@
+// Job title strings. These are looked up programatically by generating 
+// the string ID from the work type and work grade.  Because this damn
+// mickey mouse file format just assigns string IDs sequentially the
+// formula for generating these is a total hack:
+// stringId = ((workType - 1) * 11) + workGrade + 1
+
+// robot factory worker
+1 ^Drone^
+2 ^Golemfabrikatør^
+3 ^Machina Assembler^
+4 ^Robomatikkbygger^
+5 ^Fremtidsbotkonstruktør^
+6 ^Droidedesigner^
+7 ^Ledende bygginør^
+8 ^Silikoningeniør^
+9 ^Dataetterforsker^
+10 ^Androidesammensetter^
+11 ^Suprageni^
+
+// waiter
+12 ^Scatterbrained servitør^
+13 ^Kapabel oppvarter^
+14 ^Middagsdon^
+15 ^Suitable Server^
+16 ^Villig oppvarter^
+17 ^Overlegen servitør^
+18 ^Overoppvarter^
+19 ^Ypperlig servitør^
+20 ^Sommelier^
+21 ^Maitre D'^
+22 ^Mester-Maitre D'^
+
+// cook
+23 ^Kokkegrad 0^
+24 ^Kokkegrad 1^
+25 ^Kokkegrad 2^
+26 ^Kokkegrad 3^
+27 ^Kokkegrad 4^
+28 ^Kokkegrad 5^
+29 ^Kokkegrad 6^
+30 ^Kokkegrad 7^
+31 ^Kokkegrad 8^
+32 ^Kokkegrad 9^
+33 ^Kokkegrad 10^
+
+// dj
+34 ^Salongsjef^
+35 ^DJ^
+36 ^Lokaltalent^
+37 ^Klubbkid^
+38 ^Velsett scenestjerne^
+39 ^Platespinner^
+40 ^Undergrunnshelt^
+41 ^VJ^
+42 ^Prime-Time^
+43 ^Miksmester^
+44 ^Superstjerne^
+
+// dancer
+45 ^Hoofer^
+46 ^Fotforflytter^
+47 ^Lokaltalent^
+48 ^Danser^
+49 ^Teppesliter^
+50 ^Videostatist^
+51 ^Prime Prancer^
+52 ^Koreograf^
+53 ^TVstjerne^
+54 ^Sjefskoreograf^
+55 ^Superstjerne^

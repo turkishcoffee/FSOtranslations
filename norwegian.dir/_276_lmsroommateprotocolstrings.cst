@@ -1,0 +1,149 @@
+// Language Markup Strings for Maxis Roommate Letters
+
+// case kMSGID_AskInviteeToAcceptRMInvite:
+
+// N.B. The text for the in house invite confirmation exists in the social2siminteractions.iff string table.
+
+
+	// letter subject
+	1 ^Romkamerat invitasjon^
+
+	// letter txt
+	2 ^Du har blitt invitert til å bli %s romkamerat mens du var frakoblet!
+Hvis du vil vite mer om hva denne invitasjonen betyr, og for å akseptere eller avvise dette tilbudet, kan du klikke på "Svar" knappen for detaljer.^
+	// letter from
+	3 ^Invitasjon fra^
+
+
+//case kMSGID_TellInviterInviteeRejectedRMInvite:
+	// letter subject
+	4 ^Romkameratinvitasjon avslått^
+
+	// letter txt
+	5 ^Denne simmen har avslått din invitasjon til å bli en romkamerat. Kanskje en annen pålitelig venn er tilgjengelig.^
+
+	// letter from
+	6 ^Invitasjon fra^
+
+
+
+// case kMSGID_TellInviteeSetAcceptRMFailed:
+	// letter subject
+	7 ^Romkameratsinvitasjon avbrutt^
+
+	// letter txt
+	8 ^Det oppstod en feil under forsøket på å gjøre deg til denne simmens romkamerat. Romkameratsinvitasjonen ble kansellert.^
+
+	// letter from
+	9 ^Invitasjon fra^
+
+// case kMSGID_TellInviterSetPendingRMFailed_NoOwnerLot:
+	// letter subject
+	10 ^Romkameratsinvitasjon avbrutt^
+
+	// letter txt
+	11 ^Det oppstod en feil under forsøket på å gjøre deg til denne simmens romkamerat. Romkameratsinvitasjonen ble kansellert.^
+
+	// letter from
+	12 ^Invitasjon fra^
+
+
+// case kMSGID_TellInviteeSetAcceptRMSucceeded:
+	// letter subject
+	13 ^Romkameratsinvitasjon komplett^
+
+	// letter txt
+	14 ^Du er nå denne simmens romkamerat! Mange fordeler kommer fra å ha flere romkamerater. For eksempel er det nå billigere å oppgradere din byggbare plass. Nyt å ha en ny romkamerat!^
+
+	// letter from
+	15 ^Invitasjon fra^
+
+
+// case kMSGID_TellInviterSetAcceptRMSucceeded:
+	// letter subject
+	16 ^Roommate Invitation Complete^
+
+	// letter txt
+	17 ^Denne simmen er nå din romkamerat! Mange fordeler kommer fra å ha flere romkamerater. For eksempel er det nå billigere å oppgradere din byggbar plass. Nyt å ha en ny romkamerat! Og ikke glem at eieren har utkastingsmakt og kontroll over byggeprivilegium for hver romkamerat.^
+
+	// letter from
+	18 ^Invitasjon fra^
+
+
+// case kMSGID_TellOwnerKickoutRMSucceeded:
+	// letter subject
+	19 ^Romkameratutkasting fullført^
+
+	// letter txt
+	20 ^Du har nå sparket ut denne simmen. Det følger noen spillkonsekvenser med å sparke ut en romkamerat. Deres objekter vil bli planlagt for sletting og fjernet fra tomten. Kanskje en annen pålitelig venn kan flytte inn.^
+
+	// letter from
+	21 ^Forrige romkamerat^
+
+
+// case kMSGID_TellOwnerKickoutRMFailed:
+	// letter subject
+	22 ^Romkameratutkasting avbrutt^
+
+	// letter txt
+	23 ^Det oppstod en feil ved forsøk på å sparke ut denne simmen. Utkast avbrutt.^
+
+	// letter from
+	24 ^Roommate^
+
+
+// case kMSGID_TellRoommateTheyWereKickedout:
+	// letter subject
+	25 ^Romkameratutkasting fullført^
+
+	// letter txt
+	26 ^Din samboer status har blitt opphevet av tomtens eier! Du er ikke lenger en romkamerat - du er nå hjemløs. Alle dine objekter som var på tomten har blitt automatisk flyttet til ditt inventar. Hvis du er i behov av penger, kan du selge gjenstander i inventaret ditt. Du kan velge å bli romkamerat på en annen tomt, eller starte en egen eiendom. Men du kan fortsatt besøke andre eiendommer i byen uten å være eier eller romkamerat.^
+
+
+	// letter from
+	27 ^Eier^
+
+
+// case kMSGID_TellRMThatRMMovedOut:
+	// letter subject
+	28 ^Romkameratsutflytting fullført^
+
+	// letter txt
+	29 ^Denne simmen har flyttet ut av din eiendom, og er ikke lenger en romkamerat. Det finnes noen spill konsekvenser når en romkamerat flytter ut. Deres objekter vil bli planlagt for sletting og fjernet fra tomten. Kanskje en annen pålitelig venn kan flytte inn.^
+
+	// letter from
+	30 ^Forrige romkamerat^
+
+// case kMSGID_TellRMKickoutRM:
+	// letter subject
+	31 ^Romkameratsutkasting fullført^
+
+	// letter txt
+	32 ^Denne simmen har blitt sparket ut av din eiendom av tomtens eier og er ikke lenger en romkamerat. Det er noen spillkonsekvenser når en romkamerat er kastet ut. Deres objekter vil bli planlagt for sletting og fjernet fra tomten. Kanskje en annen pålitelig venn kan flytte inn.^
+
+	// letter from
+	33 ^Tidligere romkamerat^
+
+
+// case kMSGID_TellRMNewRM:
+	// letter subject
+	34 ^Romkameratsinvitasjon fullført^
+
+	// letter txt
+	35 ^Denne simmen har blitt en del av din eiendom som en romkamerat. Mange fordeler kommer fra å ha flere romkamerater. For eksempel er det nå billigere å oppgradere din byggbare plass. Nyt å ha en ny romkamerat!^
+
+	// letter from
+	36 ^Ny romkamerat^
+
+// case kMSGID_TellRoommateMoveOutSucceeded:
+	// letter subject
+	37 ^Romkameratsutflytting fullført^
+
+	// letter txt
+	38 ^Du har nå flyttet deg ut! Du er ikke lenger en romkamerat eller eier av en eiendom. Hvis du var eieren, og du hadde romkamerater, er den lengste frittstående romkamerat nå eier av tomten. Alle dine objekter som var på tomten har blitt automatisk flyttet til inventar. Noen kan nå invitere deg til å bli en romkamerat, eller du kan kjøpe en eiendom av dine egne. Du kan fortsatt besøke andre eiendommer i byen uten å være eier eller romkamerat. Hvis du trenger penger, kan du besøke en eiendom i byen og gå til kjøpemodus for å selge gjenstander i inventaret ditt.^
+
+
+	// letter from
+	39 ^Selv^
+
+

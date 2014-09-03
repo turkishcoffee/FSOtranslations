@@ -1,0 +1,71 @@
+; This is the graveyard of hard coded strings.  These strings used to live in
+; the code, but localization forced the out.
+
+// DDDSimsView
+1 ^Suspend Object Files - Server^
+2 ^Suspend Object Files - Client^
+3 ^Klikk OK for å gjenlaste objektfiler^
+4 ^Gjenlast objektfiler - Server^
+5 ^Gjenlast objektfiler - Klient^
+6 ^Objektfil gjenlasting fullført^
+7 ^  Komponentversjoner:  \n^
+
+// SimsApp - PlatformMessageBox
+8 ^Error initializing graphics system.  Click OK to quit.^
+9 ^Feil^
+10 ^The Sims Online kjører bare i et vindu når
+skrivebordet er satt til 15 eller 16 biters grafikkmodus
+og er i stand til å vise vinduet helt på skjermen.
+Vil du ha skjermen midlertidig endret
+for å støtte kjøring av spillet?
+
+Ja-for å endre modus. Nei for å avbryte kjøring av spillet.^
+11 ^Skrivebordets grafikkmodus er uforenlig^
+12 ^Cookies Prompt Enabled^
+13 ^En systembeskjed kan vises, du kan oppleve problemer hvis du kjører i fullskjermsmodus. Vennligst endre dine innstillinger for cookies...^
+14 ^Cookies avslått^
+15 ^Ditt system har ikke slått på cookies. Vennligst slå dem på for å spille TSO^
+
+// HouseClient
+16 ^Deltakingsprosessen umulig (nesten)...^
+17 ^Huset du ankommer bruker en annen meldingsprotokoll (% s) enn deg (% s).
+Rare ting kommer antagelig til å skje.
+Du kommer til å forlate, ikke sant?^
+18 ^Byen du ankommer bruker en annen meldingsprotokoll (% s) enn deg (% s).
+Rare ting kommer antagelig til å skje.
+Du kommer til å forlate, ikke sant?^
+19 ^Kjøretidsversjon samsvarer ikke^
+20 ^Din kjøretidsversjon for objekter (%u) samsvarer ikke med din kjøretidsversjon for kode (%u).
+Du synkroniserte antagelig bare din objektsmappe.
+Du kommer til å avslutte, ikke sant?^
+
+// Frendship Web
+21 ^Feil oppstod under oppstart av venneveven.\n Lukker veven.
+Lukker veven^
+22 ^Vennevevsfeil^
+
+//RelationshipWebContextMenu
+23 ^CSRs kan bare endre eksisterende kommentarer (ikke lage nye)...^
+24 ^Feil^
+
+
+// SimsApp - Edith
+25 ^Fant ikke Edith DLLen.^
+26 ^Edith kan ikke kjøre i fullskjermsmodus.  Vennligst kjør i vindusmodus for å kjøre Edith.^
+27 ^Edith^
+
+// House
+28 ^Klarte ikke finne simulatordel.  Beklager.^
+29 ^Klarte ikke finne gulvgrafikkdel.^
+30 ^Klarte ikke finne veggrafikkdel.^
+31 ^Kunne ikke laste objektsmodulen.  Du trenger kanskje en nyere klient.^
+32 ^Klarte ikke finne husbeskrivelse.^
+33 ^Klarte ikke finne lagrede ruter.^
+34 ^Kobler av og avslutter. (%s)^
+35 ^Nettverksfeil^
+36 ^Klarte ikke opprette rom på server (ingen simulatorer?). %s^
+
+// ObjectModuleClient
+37 ^Huslastingsfeil 1213^
+38 ^Disse objektene kunne ikke lastes:^
+39 ^\nEierne av disse objektene har fått tilbakebetalt et beløp tilsvarende $%d.^
