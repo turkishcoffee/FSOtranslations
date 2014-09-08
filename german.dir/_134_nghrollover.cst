@@ -1,0 +1,51 @@
+	kOccupiedHouseText,
+	kEmptyHouseTextNormalText,
+	kEmptyHouseTextMoveInModeCannotAffordText,
+	kEmptyHouseTextMoveInModeCanAffordText,
+	kEmptyLotMoveInCannotAffordText,
+	kEmptyLotMoveInModeCanAffordText,
+	kTutorialText,
+	kStreetAddressText,
+	kTutorialCannotMoveInText,
+
+^Die %s Familie
+Nettowert: %s
+Freunde: %d^
+
+^Kosten: %s
+Waehle oder erstelle eine Familie zum einziehen.^
+
+^Kosten: %s
+The %s family only has %s.  They can't afford this house.^
+
+^Kosten: %s
+Das koennte das Haus deiner Traueme sein! Wenn du das Haus kaufst bleiben noch %s Simoleans fuer Moebel.^
+
+^Kosten: %s
+The %s family only has %s.  They can't afford this lot.^
+
+^Kosten: %s
+Das kann das Haus deiner Traueme sein!  Wenn du dieses Haus musst du %s Simoleans bezahlen.^
+
+^To learn house to play the game...^
+
+^%s Sim Lane^
+
+^Kann nicht ins Tutorialhaus einziehen!^
+
+^Die %s Familie
+Nettowert: %s
+Freunde: %d
+Klicke um Familie zu trennen.^
+
+^Klicke um Haus zu demolieren.^
+
+^Hier gibts nichts zu zerstoeren oder zu trennen.^
+
+^Du kannst das Haus nicht abreissen bist du das Tutorial vollendet hast.^
+
+^Willkommen Zuhause %s!^
+^Connect to house "%s" on "%s". There %s in this house.^
+^Willkommen Zuhause %s!  Dein Haus ist schon online "%s".  Hier sind %s in diesem Haus.^
+^is 1 person^
+^are %d people^

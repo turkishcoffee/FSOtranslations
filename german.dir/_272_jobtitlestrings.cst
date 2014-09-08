@@ -1,0 +1,70 @@
+// Job title strings. These are looked up programatically by generating 
+// the string ID from the work type and work grade.  Because this damn
+// mickey mouse file format just assigns string IDs sequentially the
+// formula for generating these is a total hack:
+// stringId = ((workType - 1) * 11) + workGrade + 1
+
+// robot factory worker
+1 ^Aushelfer^
+2 ^Golem Fabrikator^
+3 ^Maschinenzusammensteller^
+4 ^Robomatischer Bauer^
+5 ^Simbot Konstrukteur^
+6 ^Droiden Designer^
+7 ^Leitender Bauer^
+8 ^Silikon Bauer^
+9 ^Datenforscher^
+10 ^Androidenzusammensteller^
+11 ^Chefandroidenzusammensteller^
+
+// waiter
+12 ^Lernender Kellner^
+13 ^Talentierter Kellner^
+14 ^Meister des Dinners^
+15 ^Perfekter Kellner^
+16 ^Kellner mit Staransehen^
+17 ^Super Kellner^
+18 ^Meisterkellner^
+19 ^Plusbeaukellner^
+20 ^Sommelier^
+21 ^Perfektermeisterkellner'^
+22 ^Bestermeister Kellner'^
+
+// cook
+23 ^Kochstarter^
+24 ^Koch Klasse 1^
+25 ^Koch Klasse 2^
+26 ^Koch Klasse 3^
+27 ^Koch Klasse 4^
+28 ^Koch Klasse 5^
+29 ^Koch Klasse 6^
+30 ^Koch Klasse 7^
+31 ^Koch Klasse 8^
+32 ^Koch Klasse 9^
+33 ^Koch Klasse 10^
+
+// dj
+34 ^Lounge Kellner^
+35 ^DJ^
+36 ^Lokales Talent^
+37 ^Club DJ^
+38 ^Well-Seen Scenester^
+39 ^Plattendreher^
+40 ^Undergroundheld^
+41 ^VJ^
+42 ^Prime-Time^
+43 ^Mixmaster^
+44 ^Superstar^
+
+// dancer
+45 ^Tanzloser^
+46 ^Durchgedrehter Tanzer^
+47 ^Lokales Talent^
+48 ^Tanzer^
+49 ^Teppichschneider^
+50 ^Video Extra^
+51 ^Choreograph Gehilfe^
+52 ^Choreograph^
+53 ^Fernsehstar^
+54 ^Chef Choreograph^
+55 ^Superstar^

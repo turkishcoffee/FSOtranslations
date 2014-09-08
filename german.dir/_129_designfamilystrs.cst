@@ -1,0 +1,23 @@
+﻿
+//The next 5 are tool tips
+1 ^Füge einen Sim hinzu^
+2 ^Ausgewählten Sim löschen^
+3 ^Edit Selected Person^
+4 ^Änderung akzeptieren^
+5 ^Abbrechen^
+
+6 ^Charakter entfernen?^
+7 ^Bist du sicher dass du den Charakter entfernen willst?^
+
+8 ^Abbrechen?^
+9 ^Bist du dir sicher dass du abrechen willst und die Familie verlieren willst?^
+
+// not actually used yet, but will be
+10 ^Erstelle eine Familie^
+11 ^Fertig^
+12 ^Abbrechen^
+
+13 ^Nachnamen eingeben:^
+
+14 ^Fertig?^
+15 ^Bist du dir sicher dass du fertig bist?  Du kannst nicht zum Erstelle eine Familie Screen zurück kehren^

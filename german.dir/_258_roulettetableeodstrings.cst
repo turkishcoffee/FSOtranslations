@@ -1,0 +1,32 @@
+1  ^Schliesst eure Wetten ab... ^
+2  ^Wird gedreht.  Keine Wetten mehr.^
+3  ^Rot ^
+4  ^Schwarz ^
+5  ^ gewinnt!  ^
+6  ^Du gewinnst$%d!^
+7  ^%s gewinnt $%d.^
+8  ^Klcike ein $%d chip um zu Wetten^
+9  ^Any number pays 35-1^
+10 ^Any two numbers pays 17-1^
+11 ^Three numbers pays 11-1^
+12 ^Any four numbers pays 8-1^
+13 ^Five numbers pays 6-1^
+14 ^Pays 2-1^
+15 ^Pays 1-1^
+16 ^No more bets^
+17 ^Auf Wetten warten^
+18 ^Hold down to show all bets^
+19 ^Total bets: $%d^
+20 ^Outside bets require at least the minimum bet per chip^
+21 ^Max bet is $%d.^
+22 ^Min bet is $%d.^
+23 ^Total bets: $%d.^
+24 ^Du hast verloren $%d.^
+25 ^$%d chips would be over the maximum allowed bet^
+26 ^After this round, the table will close.^
+27 ^%s verloren $%d.^
+28 ^Waiting for players to join^
+29 ^The croupier may not bet^
+30 ^Total winnings: $%d^
+31 ^Total losses: $%d^
+32 ^Six numbers pays 5-1^
