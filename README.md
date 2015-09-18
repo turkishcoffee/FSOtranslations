@@ -1,11 +1,13 @@
 # FreeSO Translation
 FreeSO Translation is designed to offer The Sims Online and FreeSO (or derivatives) to be avaiable in other languages and countries. This  maintained by [Simming Online Council](https://github.com/SOCouncil) and the FreeSO community.
 
+You may translate any language here as you wish. Espernato, Klingon, or you own constructed language!
+
 ## How to Contribute
 * Install The Sims Online
-* Copy and paste 'english.dir' from 'Program Files†\Maxis\The Sims Online\TSOClient\gamedata\uitext\english.dir' into here
-* Rename english.dir to the language of your choice
-* Translate the words between the [carets](https://en.wikipedia.org/wiki/Caret). I.e. ^[translation]^
+* Make a directory of the language you wish to translate known as [language].dir
+* Copy any .cst from Online\TSOClient\gamedata\uitext\english.dir your directory
+* Translate the words between the [carets](https://en.wikipedia.org/wiki/Caret).
 * Push your patch to us
 
 †On 64bit systems, this will be in Program Files(x86). **IF** you choose to install it there.
