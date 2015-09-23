@@ -1,5 +1,5 @@
 # FreeSO Translation
-FreeSO Translation is designed to offer The Sims Online and FreeSO (or derivatives) to be avaiable in other languages and countries. This  maintained by [Simming Online Council](https://github.com/SOCouncil) and the FreeSO community.
+FreeSO Translation is designed to offer The Sims Online and FreeSO (or derivatives) to be avaiable in other languages and countries. This is maintained by Zack Casey and the FreeSO community.
 
 You may translate any language here as you wish. Espernato, Klingon, or you own constructed language!
 
