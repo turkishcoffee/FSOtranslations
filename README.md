@@ -1,7 +1,5 @@
 # FreeSO Translation
-FreeSO Translation is designed to offer The Sims Online and FreeSO (or derivatives) to be avaiable in other languages and countries. This is maintained by Zack Casey and the FreeSO community.
-
-You may translate any language here as you wish. Espernato, Klingon, or you own constructed language!
+FreeSO Translation is designed to offer The Sims Online and FreeSO (or derivatives) to be avaiable in other languages and countries. This is maintained by Zack Casey and the FreeSO community.  If you wish to submit a constructed language, such as [Esperanto](https://en.wikipedia.org/wiki/Esperanto), that's perfectly fine. All languages are accepted.
 
 ## How to Contribute
 * Install The Sims Online
