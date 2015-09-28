@@ -6,8 +6,8 @@ You may translate any language here as you wish. Espernato, Klingon, or you own 
 ## How to Contribute
 * Install The Sims Online
 * Make a directory of the language you wish to translate known as [language].dir
-* Copy any .cst from Online\TSOClient\gamedata\uitext\english.dir your directory
-* Translate the words between the [carets](https://en.wikipedia.org/wiki/Caret).
+* Copy any .cst from Online\TSOClient\gamedata\uitext\english.dir to your directory
+* Translate the words between the [carets](https://en.wikipedia.org/wiki/Caret) from English to said language
 * Push your patch to us
 
 †On 64bit systems, this will be in Program Files(x86). **IF** you choose to install it there.
