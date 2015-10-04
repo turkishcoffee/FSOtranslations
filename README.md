@@ -1,5 +1,7 @@
 # FreeSO Translation
-FreeSO Translation is designed to offer The Sims Online and FreeSO (or derivatives) to be avaiable in other languages and countries. This is maintained by Zack Casey and the FreeSO community.  If you wish to submit a constructed language, such as [Esperanto](https://en.wikipedia.org/wiki/Esperanto), that's perfectly fine. All languages are accepted.
+FreeSO Translation is designed to offer The Sims Online and FreeSO (or derivatives) to be avaiable in other languages and countries. This is maintained by Zack Casey and the FreeSO community. 
+
+Object translation is not possible yet until an Edith replacement is written.
 
 ## How to Contribute
 * Install The Sims Online
@@ -10,8 +12,10 @@ FreeSO Translation is designed to offer The Sims Online and FreeSO (or derivativ
 
 †On 64bit systems, this will be in Program Files(x86). **IF** you choose to install it there.
 
-## Special Characters
-For languages with special characters such as æ, ø, å, or ä **please make sure to save all your files as UTF-8, not ANSI,** or they will break the client!
+## Guidelines
+* Translate everything that isn't clearly a Sims 1 concept
+* Use accents instead of speciel characters.
+* Latin script-based languages only. [Natural](https://en.wikipedia.org/wiki/Natural_language) or [constructed](https://en.wikipedia.org/wiki/Constructed_language).
 
 # Licenses
 Content is licensed under public domain. The installation script is licensed under the GPL 2.
