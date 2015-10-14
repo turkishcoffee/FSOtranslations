@@ -17,6 +17,14 @@ Object translation is not possible yet until an Edith replacement is written.
 * Use accents instead of speciel characters.
 * Latin script-based languages only. [Natural](https://en.wikipedia.org/wiki/Natural_language) or [constructed](https://en.wikipedia.org/wiki/Constructed_language).
 
+## Seeing your changes
+To see your changes, put your [your language].dir in the same directory as english.dir, then change the following lines in **freeso.exe.config**:
+```XML
+<setting name="CurrentLang" serializeAs="String">
+                <value>[your language]</value>
+```
+This is not a permanent solution. Your changes will be lost next time you update your client.
+
 # Licenses
 Content is licensed under public domain. The installation script is licensed under the GPL 2.
 
