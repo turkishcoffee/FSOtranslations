@@ -1,0 +1,133 @@
+#145#OptionStrs.cst
+
+// Todas as coordenadas estarão em OptionsBack.bmp coordenadas...i.e., (0;0) coordenada de
+// o maior pixel do canto superior esquerdo em OptionsBack.bmp
+
+// Principais opções painel de botões (6)
+Coluna 1
+^(88;6)^
+	^Vizinhança^
+^(29;6)^
+	^Salvar^
+^(159;6)^
+	^Sair^
+
+Coluna 2...Posição inicial computado na largura da 1a coluna
+^(29;58)^
+	^Opções Gráficas^
+^(89;58)^ 
+	^Opções de Som^
+^(151;58)^
+	^Opções de Jogo^
+
+
+
+
+Opções Gráficas
+^(275;9)^		// start tiling
+^(200;20)^		// tile delta
+
+^Suavização de bordas^
+^Sobre Suavização de bordas^
+^O recurso Suavização de bordas faz as bordas de objetos ficarem mais suaves e menos serrilhadas. Desativando a suavização de bordas irá mostrar as bordas menos suaves, mas o desempenho do jogo irá melhorar.^
+
+^Sombras^
+^Sobre Sombras^
+^Sombras aparecem abaixo de alguns objetos para melhorar seu visual. Desativando as sombras irá removê-las e irá melhorar o desempenho do jogo.^
+
+^Iluminação^
+^Sobre Iluminação^^
+^A tela do jogo é sempre iluminada por uma certa quantidade de luz ambiente. Além disso, certos objetos como lâmpadas podem ser usados para fornecer luz adicional. Essa opção permite a voçê desativar a luz projetada por objetos, isso irá melhorar o desempenho do jogo.^
+
+^Efeitos de Interface^
+^Sobre Efeitos de Interface^
+^Essa opção ativa muitos efeitos especiais. Desligar para um desempenho rápido.^
+
+^(480;30)^		// start tiling..Este é na verdade o topo direito do texto
+^(200;26)^		// tile delta
+
+^Detalhes do Terreno^
+^Sobre Detalhes do Terreno^
+^Detalhes do Terreno refere-se ao nivel de detalhe da grama. Detalhe elevado irá mostrar muitas lâminas de grama. Detalhe baixo significa menos lâminas de grama e desempenho rápido.^
+
+^Detalhes do Personagem^
+^Sobre Detalhe do Personagem^
+^Os Detalhes do Personagem refere-se ao tanto de sombreamento e luz filtrada que será usada nos Sims. Altos niveis de detalhe dão a você a melhor qualidade gráfica, baixos niveis de detalhe dão a você o melhor desempenho.^
+
+
+// origem do tiler para caixas de seleção
+^(245;7)^		// começar tiling
+^(200;20)^		// tile delta
+
+^(80;20)^		// dimensões dos grupos dos botões de radio
+
+// origem do tiler para o grupo de botões de radio
+^(485;30)^		// começar tiling
+^(200;26)^		// tile delta
+
+// Essas são posicionadas automaticamente
+// relativo ao trio dos botões do radio
+^Baixo^
+^Médio^
+^Alto^
+
+// SOM
+^(305;13)^		// start tiling
+^(200;28)^		// tile delta
+
+^Efeitos Sonoros^
+^Efeitos de Sonoros^
+^Use esse controle de volume para definir seu nivel de volume preferido para todos os sons do jogo e a TV.^
+
+^Musica^
+^Musica^
+^Use esse controle de volume para definir seu nivel de volume preferido para todas as musicas do jogo incluindo o radio.^
+
+^Voz^
+^Voz^
+^Use esse controle de volume para definior seu nivel de volume preferido para as vozes dos Sims.^
+
+^(130;0)^		// largura do controle deslizante.  termo y ignorado
+
+// OPÇOES DE JOGO
+^(275;9)^		// start tiling
+^(200;20)^		// tile delta
+
+^Auto-Centralizar^
+^Sobre Auto-Centralizar^
+^O jogo automaticamente centraliza a tela em um evento especial quando esta ocorrendo. Essa opção desliga o recurso de Auto-centralizar.^
+
+^Livre-Arbítrio^
+^Sobre Livre-Arbítrio^
+^Livre-Arbítrio se refere à capacidade dos Sims viverem suas vidas sozinhos sem sua ajuda. Se eles tiverem o livre arbítrio, normalmente irão responder aos seus comandos, mas se você deixa-los sozinhos por um tempo eles começarão a fazer coisas por conta própria. Se você é um maníaco por controle e deseja que eles esperem pacientemente por cada ordem, desligue esse recurso. A proposito, visitantes sempre terão livre arbítrio.^
+
+^Rolagem de borrda^
+^Sobre Rolagem de borda^
+^Com a Rolagem de borda ligada, quando seu mouse acertar a borda da tela, a tela do jogo irá rolar. Desligue essa opção se você desejar.^
+
+^Sim em Segundo Plano^
+^Sobre Sim em Segundo Plano^
+^Você pode pressionar Alt-Tab e ir para outra tela ativa enquanto você esta jogando The Sims Online. Normalmente o jogo irá simplesmente pausar quando acontecer. Porém se você deseja deixar os Sims vivendos suas vidas enquanto você estiver ocupado em outro lugar, ligue Sim(ulação) em segundo plano.^
+
+^(521;24)^
+^Redefinir Tutorial^
+^Sobre Redefinir Tutorial^
+^Uma vez que o tutorial for jogado, se desejar joga-lo novamente, deve ser redefinido. Esse botão é usado pra essa proposta.  Contudo, quaisquer modificaçôes na propriedade e nos Sims que vivem aqui serão perdidos. Além disso, se outra família for movida para a propriedade, eles serão despejados.^
+
+// MAIS OPÇOES DE JOGO
+
+^Ajuda Rápida^
+^Sobre Ajuda Rapida^
+^Exibe telas pop-up de ajuda sem pausar ou exigir um clique do mouse.^
+
+^Foto Instantânea^
+^Sobre Foto Instantânea^
+^Automaticamente coloca a foto no álbum de foto photo quando um evento significativo ocorrer.^
+
+^PIP Ao vivo^
+^Sobre PIP Ao vivo^
+^PIP significa "picture in picture." Quando ocorrer determinados eventos vai aparecer uma pequena janela ativa destacando o evento. Para um desempenho melhor em máquinas lentas, essa opção deve ser desativada.^
+
+^Exportar HTML^
+^Sobre Exportar HTML^
+^Ativar esse recurso para gerar páginas web sobre cada uma das suas famílias quando eles forem salvos.  Desligue para salvar mais rápido.^
