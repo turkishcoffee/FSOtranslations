@@ -1,0 +1,51 @@
+	kOccupiedHouseText,
+	kEmptyHouseTextNormalText,
+	kEmptyHouseTextMoveInModeCannotAffordText,
+	kEmptyHouseTextMoveInModeCanAffordText,
+	kEmptyLotMoveInCannotAffordText,
+	kEmptyLotMoveInModeCanAffordText,
+	kTutorialText,
+	kStreetAddressText,
+	kTutorialCannotMoveInText,
+
+^Família %s
+Patrimônio líquido: %s
+Amigos: %d^
+
+^Preço: %s
+Escolha ou crie uma família e mova-os para poder jogar.^
+
+^Preço: %s
+A família %s tem apenas %s.  E não podem pagar essa casa.^
+
+^Preço: %s
+Essa pode ser a casa dos seus sonhos!  Se você comprar, a família terá %s para investir em mobília.^
+
+^Preço: %s
+A família %s tem apenas %s.  E não podem pagar por esse lote.^
+
+^Preço: %s
+Esse pode ser o lote dos seus sonhos!  Se você comprar esse lote, a família terá %s para construir a casa e investir em mobília.^
+
+^Aprenda a casa para jogar o jogo...^
+
+^%s Linha Sim^
+
+^Não pode mudar para a casa do tutorial!^
+
+^Família %s
+Patrimônio líquido: %s
+Amigos: %d
+Clique para despejar essa família.^
+
+^Clique para demolir essa casa.^
+
+^Aqui não tem ninguem para despejar ou demolir.^
+
+^Você não pode demolir a casa do tutorial após tê-lo feito.^
+
+^Bem-vindo %s!^
+^Conectar a casa "%s" em "%s". Lá %s nesta casa.^
+^Bem-vindo %s!  Sua casa já está online em "%s".  Lá %s nesta casa.^
+^é 1 pessoa^
+^são %d pessoas^
