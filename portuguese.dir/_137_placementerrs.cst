@@ -1,0 +1,154 @@
+kPErrLocationOutOfBounds
+^Lugar fora dos limites^
+
+kPErrLevelOutOfBounds
+^Nível fora dos limites^
+
+kPErrMustBeAtTileCenter
+^Deve estar centralizado^
+
+kPErrMustBeInCorner
+^Deve estar no canto^
+
+kPErrCantBeInCorner
+^Não pode estar no canto^
+
+kPErrMustBeAgainstWall
+^Deve estar contra a parede^
+
+kPErrCantBeThroughWall
+^Não pode cruzar a parede^
+
+kPErrMustBeOnUpstairsFloorHole
+^Deve estar no andar de cima^
+
+kPErrMustBeOutside
+^Deve estar do lado de fora^
+
+kPErrMustBeInside
+^Deve estar dentro da casa^
+
+kPErrCantIntersectOtherObjects
+^Não pode cruzar outros objetos^
+
+kPErrMustBeOnGround
+^Deve estar no solo^
+
+kPErrCantFindSlot
+^Não foi possível achar um lugar para coloca-lo^
+
+kPErrCantSupportWeight
+^Não pode suportar o peso^
+
+kPErrCantSupportSize
+^Não pode suportar o tamanho^
+
+kPErrCantPlaceOnTop
+^Não pode colocar no topo^
+
+kPErrCantPlaceOnSlope
+^Não pode colocar no declive^
+
+kPErrCantPlaceInAir
+^Deve colocar no piso do segundo andar^
+
+kPErrNotAllowedOnFloor
+^Deve ser colocado no terreno^
+
+kPErrNotAllowedOnTerrain
+^Deve ser colocado em piso^
+
+kPErrCantAfford
+^Fundos insuficientes^
+
+kPErrMustBeAgainstUnusedWall
+^Deve estar em uma parede não usada^
+
+kPErrMustBeOnDiagonal
+^Deve estar na diagonal^
+
+kPErrHeightNotAllowed
+^Deve colocar em uma mesa ou superfície^
+
+kPErrInsufficientFunds
+^Fundos insuficientes^
+
+kPErrSpecialShowMoneyError
+^Usuário nunca deve ver essa mensagem^
+
+kPErrHasWater
+^Não foi possível adicionar mais água^
+
+kPErrNoWater
+^Sem água para deletar^
+
+kPErrCantPlaceOnWater
+^Não é possível colocar sobre água^
+
+kPErrMustPlaceOnWater
+^Deve ser colocado em água^
+
+kPErrMustPlaceOnPool
+^Deve ser colocado em uma piscina^
+
+kPErrMustBeOnFirstLevel
+^Deve ser colocado no primeiro andar^
+
+// parede específica
+kPErr2ndFloorNeedsSupport,
+^Parede do segundo andar precisa do suporte do primeiro andar^
+
+kPErrMustRemoveObjectsOnWall,
+^Deve remover objetos da parede primeiro^
+
+// papel de parede específico
+kMustBeAgainst2ndFloorWall
+^Deve ser na parede do segundo andar^
+
+kPErrCannotDeleteObject
+^Não é possível deletar objetos em uso^
+
+kPErrObjectNotOwnedByYou
+^Não é seu!^
+
+kPErrCounterHeight
+^Deve ser colocado na bancada^
+
+kPErrCantBePickedup
+^Não é possível pegar^
+
+kPErrInUse
+^Não é possível selecionar o objeto em uso^
+
+kPErrCantBePickedupOutOfBounds
+^Não é possível pegar--lugar fora dos limites^
+
+kPErrCantEffectFirstLevelFromSecondLevel
+^Não é possivel afetar o primeiro andar pelo segundo^
+
+kPErrCantPlaceInAirOtherLevel
+^Deve conectar ao segundo andar^
+
+kPErrNotAllowedOnFloorOtherLevel
+^Não pode cruzar com objetos do segundo andar^
+
+kPErrCannotPlaceComputerOnEndTable,
+^Não pode colocar no final da mesa^
+
+kPErrCannotDeletePoolWhilePeopleAreInIt
+^Não é possivel deletar a piscina com um Sim nela^
+
+kPErrMustRemoveLadderOrDivingBoardBeforeDeletingPool
+^Deve deletar primeiro a escada ou prancha de mergulho^
+
+kPErrCannotWallpaperFence
+^Não é possível colocar papel de parede na cerca^
+
+kPErrMustHaveMoreSpaceFromCeiling
+^Deve ter mais espaço do teto^
+
+kPErrTooManyObjectsOnTheLot
+^Limite de objetos no lote excedido^
+
+kpErrCantPlaceOnForSaleObject
+^Não é possível colocar em objeto a venda^
