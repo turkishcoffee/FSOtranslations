@@ -1,0 +1,29 @@
+1  ^Cancelar^
+2  ^Aceitar^
+3  ^Insira o nome do seu Sim aqui. Esse nome será visto por outros jogadores e não poderá ser alterado mais tarde.^
+4  ^Outros jogadores poderão ver a descrição na página do seu Sim no jogo. Não se preocupe em acertar corretamente... você pode alterá-lo mais tarde.^
+5  ^Sair do jogo^
+6  ^Mulher^
+7  ^Homem^
+8  ^Pele Clara^
+9  ^Pele Média^
+10 ^Pele Escura^
+11 ^O nome que voce inseriu é invalido. O problema(s) a seguir foram encontrados:^
+12 ^- Nome muito curto. Precisa de pelo menos 3 caracteres.^
+13 ^- Nome muito longo. Somente 24 caracteres são permitidos.^
+14 ^- Caractéres numéricos (0-9) não são permitidos.^
+15 ^- Somente um apóstrofe (') será permitido.^
+16 ^- Somente um travessão (-) será permitido.^
+17 ^- Apenas dois espaços não contínuos será permitido.^
+18 ^- Caractéres especias não são permitidos.^
+19 ^- Uma palavra reservada ou imprópria foi detectada.^
+20 ^Rolar para cima^
+21 ^Rolar para baixo^
+22 ^Crie sua Identidade do jogo^
+23 ^Música favorita: 
+Filme favorito:
+Me excita:
+Não me excita:
+ Citação: ^
+24 ^Criando novo Sim...^
+25 ^Por favor espere enquanto seu novo Sim está sendo criado...^

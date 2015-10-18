@@ -1,0 +1,23 @@
+Linhas 1-3 são usados para diferentes maneiras de dispor os pop-ups. Em cada linha, um retorno de carro separa as linhas, e o nome do objeto é substituido por % caracteres, e o custo do objeto para $ caracteres.
+
+1 - sem reembolso.
+^Pressione "Delete" ou clique aqui 
+para dispor de %.^
+
+2 - reembolso
+^Pressione "Delete" ou clique aqui 
+para vender de % por $.^
+
+3 - objeto indeletável, como a lixeira.
+^% não pode ser deletada.^
+
+Próximos 3 são os mesmos, mas usados no modo construção
+^Pressione "Delete" ou clique aqui 
+para dispor de %. <MODO CONSTRUÇÃO>^
+
+2 - reembolso
+^Pressione "Delete" ou clique aqui 
+para vender de % por $.<MODO CONSTRUÇÃO>^
+
+3 - objeto indeletável, como a lixeira.
+^% não pode ser deletada.<MODO CONSTRUÇÃO>^

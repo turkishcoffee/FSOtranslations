@@ -1,27 +1,27 @@
 
-CasakEvictXXX
-^Casa do Bulldoze?^
-^Voc� quer bulldoze nessa casa?^
+kEvictHouseXXX
+^Demolir a Casa?^
+^Tem certeza que deseja demolir essa casa?^
 
-Fam�liakEvictXXX
-^Fam�lia Evict?^
-^The %s family has net worth of %s.  Do you want to evict them?^
+kEvictFamilyXXX
+^Despejar Familia?^
+^A %s familia tem um patrimônio líquido de %s.  Você quer expulsa-los?^
 
 kEvictNothingXXX
-^Nothing to Bulldoze^
-^There is nothing here to bulldoze.^
+^Nada para demolir^
+^Não há nada aqui para demolir.^
 
 kEvictCommunityXXX
-^Community Space^
-^You cannot bulldoze community space.^
+^Espaço Comunitário^
+^Você não pode demolir espaços comunitários.^
 
 kEvictMarqueeXXX
-^Sorry^
-^You cannot bulldoze the SimEstates marquee.^
+^Desculpa^
+^Você não pode demolir a marquise de SimEstates.^
 
 kEvictCountNotXXX
-^Error^
-^Could not evict!^
+^Erro^
+^Não foi possível despejar!^
 
-^Sorry^
-^You cannot bulldoze the tutorial house.^
+^Desculpa^
+^Você não pode demolir a casa do tutorial.^
