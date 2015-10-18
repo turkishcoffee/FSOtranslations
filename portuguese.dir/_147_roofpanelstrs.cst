@@ -1,0 +1,31 @@
+^(10;75)^		// position of flat button, in subpanel coords
+^Telhado Plano^	// tooltip
+
+^(10;51)^		// position of shallow button, in subpanel coords
+^Telhado Baixo^	// tooltip
+
+^(10;26)^		// position of medium button, in subpanel coords
+^Telhado Médio^	// tooltip
+
+^(10;-4)^		// position of steep button, in subpanel coords
+^Telhado Alto^	// tooltip
+
+
+^(58;26)^		// position of left page, in subpanel coords
+^Página Anterior^	// tooltip
+
+^(254;26)^		// position of right page, in subpanel coords, in 800x600 mode
+^(437;26)^		// position of right page, in subpanel coords, in 1024x768 mode
+^Próxima Página^	// tooltip
+
+^(74;3)^		// top left of first roof pattern, in subpanel coords
+
+^Altura do telhado^
+^A altura (Declive) do telhado pode ser modificado. Tem as seguintes opções plano, baixo, médio e alto. Experimente com diferentes telhados e veja qual se adapte à sua propriedade. Não irá lhe custar nada.^
+
+^Padrões de Telhado^
+^Um padrão de telhado será aplicado a sua propriedade quando você clicar em um padrão no painel de controle.^
+
+^(10;91)^
+^Telhado Plano^
+
