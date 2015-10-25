@@ -1,0 +1,34 @@
+^p^ pausar
+^~^ pausar
+^q^ sair
+^a^ mostrar suavização de bordas
+^s^ mostrar sombras
+^v^ mostrar versão
+^y^ tecla padrão "sim"
+^n^ tecla padrão "não"
+^,^ rotacionar a esquerda
+^.^ rotacionar a direita
+^=^ aproximar zoom
+^-^ afastar zoom
+^1^ velocidade 1
+^2^ velocidade 2
+^3^ velocidade 3
+^+^ aproximar zoom
+^_^ afastar zoom
+^<^ rotacionar pra esquerda
+^>^ rotacionar pra direita
+^`^ pausa
+
+21 ^X^ ctl-X -> Cortar
+22 ^C^ Copiar
+23 ^V^ Colar 
+24 ^Z^ Desfazer
+25 ^Y^ Refazer
+
+26 ^x^ próxima página do catálogo
+27 ^z^ página anterior do catálogo
+28 ^t^ mostrar taxa de quadros
+
+29 ^A^ selecionar todo texto ctl-A
+30 ^Q^ sair ctl-Q
+31 ^S^ salvar ctl-S
