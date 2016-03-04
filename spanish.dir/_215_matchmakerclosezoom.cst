@@ -1,0 +1,69 @@
+1  ^Dejando la Propiedad^
+2  ^Estás a punto de dejar la propiedad en la que estás. ¿Quieres continuar?^
+3  ^Nombre de la Propiedad: %s^
+4  ^Gente en la Propiedad: %d^
+5  ^Esta es tu propiedad^
+6  ^Desconectado^
+7  ^No puedes construir aquí.^
+8  ^Los Controles Parentales están bloqueando este texto.^
+9  ^Lote Vacante: $%d^
+10 ^Mover Propiedad^
+11 ^Comprar Propiedad^
+
+// Leader with roommates move/buy lot dialog ***********************************
+
+12 ^Do you want to move your existing property and roommates to this new location? 
+
+This property costs %s and you have %s in cash. 
+
+If you move, you will pay %s - the cost of this property plus the %s moving fee, but you will be refunded %s - the value of your old property.
+
+Please note: your property has to be offline in order to be moved.
+
+If you would like to buy this property and start fresh, you have to move out of your current property first.^ 
+
+13 ^Start Fresh^
+14 ^Move Property^
+15 ^Cancel^
+
+// Leader with no roommates move/buy lot dialog *********************************
+
+16 ^Do you want to move your existing property to this new location?
+
+This property costs %s and you have %s in cash.
+
+If you move, you will pay %s - the cost of this property plus the %s moving fee, but you will be refunded %s - the value of your old property.
+
+Please note: your property has to be offline in order to be moved.
+
+If you would like to buy this property and start fresh, you have to move out of your current property first.^
+
+17 ^Move Property^
+18 ^Demolish And Buy^
+19 ^Cancel^
+
+// Roommate buy lot dialog ******************************************************
+
+20 ^¿Quieres dejar tu propiedad actual y mudarte a esta (conservarás tus objetos)?
+
+Esta propiedad cuesta %s y tu tienes %s en efectivo.^
+
+21 ^Si^
+22 ^No^
+
+// Buy lot dialog ***************************************************************
+
+23 ^Antes de comprar tu propiedad, ten en cuenta las propiedades actuales que necesitan Acompañantes. Tener Acompañantes te permite comprar más cosas, ampliar tu terreno y tener más visitas (lo que te proporcionará dinero). 
+
+Esta propiedad cuesta %s y tu tienes %s en efectivo. ¿Quieres comprar esta propiedad?^
+
+24 ^Si^
+25 ^No^
+
+26 ^No tienes suficientes fondos para comprar esta propiedad.^
+27 ^No tienes suficientes fondos para mudarte.^
+28 ^Tu propiedad debe estar Desconectada para mudarte..^
+29 ^Mover Propiedad^
+30 ^¿Seguro que quieres mover tu propiedad a la nueva localización?^
+31 ^Si quieres comprar esta propiedad, tendrás que dejar la tuya primero..^
+
