@@ -1,5 +1,5 @@
-; Simming Online Council Language Pack Template
-; Copyright (C) 2014  Zack Casey, Simming Online Council
+; My Simulation Language Pack Template
+; Copyright (C) 2014  Zack Casey, My Simulation
 ;
 ; This program is free software; you can redistribute it and/or
 ; modify it under the terms of the GNU General Public License
@@ -19,10 +19,10 @@
 !include defines.nsh
 
 ; Replace with "FreeSO [Language] Language Pack"
-Name "Simming Online Council Language Pack Template"
+Name "My Simulation Language Pack Template"
 
 ; Replace with "FreeSO[Language].exe"
-Outfile "SOCLanguagePackTemplate.exe"
+Outfile "MySimLanguagePackTemplate.exe"
 
 ; DO NOT CHANGE ANYTHING BELOW HERE
 
@@ -67,9 +67,10 @@ Exit:
 FunctionEnd
 
 Section "Main"
-	CreateDirectory '$INSTDIR\TSOClient\gamedata\uitext\norwegian.dir'
-	SetOutPath '$INSTDIR\TSOClient\gamedata\uitext\norwegian.dir'
-
+	; Change "lang" to the name of the language
+	CreateDirectory '$INSTDIR\TSOClient\gamedata\uitext\lang.dir'
+	SetOutPath '$INSTDIR\TSOClient\gamedata\uitext\lang.dir'
+	
 	File "_128_pickfamilystrs.cst"
 	File "_129_designfamilystrs.cst"
 	File "_130_designcharstrs.cst"
