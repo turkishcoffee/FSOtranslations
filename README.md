@@ -4,26 +4,30 @@ FreeSO Translation is designed to offer The Sims Online and FreeSO (or derivativ
 Object translation is not possible yet until an Edith replacement is written.
 
 ## How to Contribute
-* Install The Sims Online
-* Make a directory of the language you wish to translate known as [language].dir
-* Copy any .cst from Online\TSOClient\gamedata\uitext\english.dir to your directory
+* Install The Sims Online ([Download here](http://largedownloads.ea.com/pub/misc/tso/))
+* Fork the FSOTranslations repository
+* Make a new directory of the language you wish to translate known as [language].dir
+* Copy any .cst from Online\TSOClient\gamedata\uitext\english.dir to your directory as a template
 * Translate the words between the [carets](https://en.wikipedia.org/wiki/Caret) from English to said language
-* Push your patch to us
+* Push the patch back here
 
 †On 64bit systems, this will be in Program Files(x86). **IF** you choose to install it there.
 
 ## Guidelines
 * Translate everything that isn't clearly a Sims 1 concept
-* Use accents instead of speciel characters.
+* Use accents instead of special characters.
 * Latin script-based languages only. [Natural](https://en.wikipedia.org/wiki/Natural_language) or [constructed](https://en.wikipedia.org/wiki/Constructed_language).
 
+### Object translation
+Object translation with [Volcanic](https://dl.dropboxusercontent.com/u/12239448/Volcanic.pdf) is not apart of this project, at present. I'm looking into a way to incorporating this into the project.
+
 ## Seeing your changes
-To see your changes, put your [your language].dir in the same directory as english.dir, then change the following lines in **freeso.exe.config**:
+Put [your language].dir in the same directory as english.dir. Then change the following lines in **freeso.exe.config**:
 ```XML
 <setting name="CurrentLang" serializeAs="String">
                 <value>[your language]</value>
 ```
-This is not a permanent solution. Your changes will be lost next time you update your client.
+However, this is not a permanent solution. Your changes will be lost next time you update your client.
 
 # Licenses
 Content is licensed under public domain. The installation script is licensed under the GPL 2.
